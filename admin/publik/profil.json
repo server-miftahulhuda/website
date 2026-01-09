@@ -1,0 +1,125 @@
+
+[
+  {
+    "hero": {
+      "label_atas": "Tentang Kami",
+      "judul_awalan": "Sejarah & Profil",
+      "judul_sorotan": "Al-Burhani",
+      "deskripsi": "Lembaga pendidikan Islam yang didirikan pada tahun 1976 oleh Mama KH. Burhanudin."
+    },
+    "identitas_inti": [
+      {
+        "judul": "Salaf",
+        "judul_lengkap": "Manhaj Salaf",
+        "deskripsi": "Berpegang teguh pada Aswaja."
+      },
+      {
+        "judul": "Global",
+        "judul_lengkap": "Wawasan Global",
+        "deskripsi": "Siap menghadapi tantangan zaman."
+      },
+      {
+        "judul": "Mandiri",
+        "judul_lengkap": "Berjiwa Mandiri",
+        "deskripsi": "Dibekali kecakapan hidup (Life Skill)."
+      }
+    ],
+    "visi_misi": {
+      "gambar": "https://imgur.com/H7qIaLc.png",
+      "kutipan": "Mencetak santri berkualitas dalam ilmu agama maupun dunia.",
+      "nama": "Mama KH. Burhanudin",
+      "teks_visi": "Menjadi lembaga pendidikan islam yang menjadi rujukan dalam melahirkan pribadi unggulan, berakhlakul karimah sesuai manhaj salafus solih, berwawasan global, memegang teguh madzhab ahlussunnah wal jamaah.",
+      "misi": [
+        { "judul": "Kitab Kuning", "deskripsi": "Melestarikan tradisi keilmuan Islam klasik.", "path_ikon": "M12 6.042A8.967 8.967 0 006 3.75c-1.052 0-2.062.18-3 .512v14.25A8.987 8.987 0 016 18c2.305 0 4.408.867 6 2.292m0-14.25a8.966 8.966 0 016-2.292c1.052 0 2.062.18 3 .512v14.25A8.987 8.987 0 0018 18c-2.305 0-4.408.867-6 2.292m0-14.25v14.25" },
+        { "judul": "Tahfidz Qur'an", "deskripsi": "Program hafalan Al-Qur'an bersanad.", "path_ikon": "M12 21a9.004 9.004 0 008.716-6.747M12 21a9.004 9.004 0 01-8.716-6.747M12 21c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3m0 18c-2.485 0-4.5-4.03-4.5-9S9.515 3 12 3m0 0a8.997 8.997 0 017.843 4.582M12 3a8.997 8.997 0 00-7.843 4.582" },
+        { "judul": "Skill & Produksi", "deskripsi": "Desain interior, furniture custom, tani, dan ternak.", "path_ikon": "M2.25 18.75a60.07 60.07 0 0115.797 2.101c.727.198 1.453-.342 1.453-1.096V18.75M3.75 4.5v.75A.75.75 0 013 6h-.75m0 0v-.375c0-.621.504-1.125 1.125-1.125H20.25M2.25 6v9m18-10.5v.75c0 .414.336.75.75.75h.75m-1.5-1.5h.375c.621 0 1.125.504 1.125 1.125v9.75c0 .621-.504 1.125-1.125 1.125h-.375m1.5-1.5H21a.75.75 0 00-.75.75v.75m0 0H3.75m0 0h-.375a1.125 1.125 0 01-1.125-1.125V15m1.5 1.5v-.75A.75.75 0 003 15h-.75M15 10.5a3 3 0 11-6 0 3 3 0 016 0zm3 0h.008v.008H18V10.5zm-12 0h.008v.008H6V10.5z" },
+        { "judul": "Bahasa", "deskripsi": "Penguasaan Bahasa Arab dan Inggris.", "path_ikon": "M10.5 21l5.25-11.25L21 21m-9-3h7.5M3 5.621a48.474 48.474 0 016-.371m0 0c1.12 0 2.233.038 3.334.114M9 5.25V3m3.334 2.364C11.176 10.658 7.69 15.08 3 17.502m9.334-12.138c.896.061 1.785.147 2.666.257m-4.589 8.495a18.023 18.023 0 01-3.827-5.802" }
+      ]
+    },
+    "nilai_inti": {
+      "item": [
+        { "nama": "Ahlakul Karimah", "sub": "Berkarakter", "warna": "bg-emerald-600" },
+        { "nama": "Manhaj Salaf", "sub": "Aswaja", "warna": "bg-amber-600" },
+        { "nama": "Mandiri", "sub": "Life Skill", "warna": "bg-blue-600" },
+        { "nama": "Berilmu", "sub": "Agama & Umum", "warna": "bg-purple-600" }
+      ]
+    },
+    "struktur": {
+      "jabatan": "Pimpinan Pondok",
+      "nama": "KH. Darul Falah",
+      "deskripsi": "Pimpinan Pondok Pesantren Miftahul Huda Al-Burhani.",
+      "gambar": "https://placehold.co/400x400/064e3b/ffffff?text=KH.+Darul+Falah",
+      "unit_langsung": [
+        {
+          "jabatan": "Sekretaris",
+          "nama": "Ust. Jajam M.J.",
+          "deskripsi": "Sekretariat",
+          "gambar": "https://placehold.co/400x400/3b82f6/ffffff?text=Ust.+Jajam",
+          "unit_langsung": [],
+          "unit_terkait": []
+        },
+        {
+          "jabatan": "Bendahara Umum",
+          "nama": "Ust. Hilman Aziz",
+          "deskripsi": "Keuangan Pusat",
+          "gambar": "https://placehold.co/400x400/eab308/ffffff?text=Ust.+Hilman",
+          "unit_langsung": [],
+          "unit_terkait": []
+        }
+      ],
+      "unit_terkait": [
+        {
+          "jabatan": "Kaur Pendidikan",
+          "nama": "Ust. Ghozali",
+          "deskripsi": "Kurikulum & Akademik",
+          "gambar": "https://placehold.co/300x300/2563eb/ffffff?text=Ust.+Ghozali",
+          "unit_langsung": [],
+          "unit_terkait": []
+        },
+        {
+          "jabatan": "Kaur Keamanan",
+          "nama": "Ust. Andi M.",
+          "deskripsi": "Ketertiban Santri",
+          "gambar": "https://placehold.co/300x300/dc2626/ffffff?text=Ust.+Andi",
+          "unit_langsung": [],
+          "unit_terkait": []
+        },
+        {
+          "jabatan": "Kaur Pembangunan",
+          "nama": "Ust. Muhibin",
+          "deskripsi": "Sarana & Prasarana",
+          "gambar": "https://placehold.co/300x300/059669/ffffff?text=Ust.+Muhibin",
+          "unit_langsung": [],
+          "unit_terkait": []
+        },
+        {
+          "jabatan": "Kaur Humas",
+          "nama": "Ust. Usman",
+          "deskripsi": "Hubungan Masyarakat",
+          "gambar": "https://placehold.co/300x300/7c3aed/ffffff?text=Ust.+Usman",
+          "unit_langsung": [],
+          "unit_terkait": []
+        },
+        {
+          "jabatan": "Kaur Kopontren",
+          "nama": "Ust. Hilman Aziz",
+          "deskripsi": "Unit Usaha",
+          "gambar": "https://placehold.co/300x300/d97706/ffffff?text=Ust.+Hilman",
+          "unit_langsung": [],
+          "unit_terkait": []
+        }
+      ]
+    },
+    "sejarah": {
+      "judul": "Lintasan Sejarah",
+      "item": [
+        { "tahun": "1976", "judul": "Pendirian", "deskripsi": "Pondok Pesantren didirikan oleh Mama KH. Burhanudin.", "posisi": "left" },
+        { "tahun": "2017", "judul": "Legalitas AHU", "deskripsi": "Mendapatkan pengesahan AHU-0002720.AH.01.04.TAHUN 2017.", "posisi": "right" },
+        { "tahun": "2024", "judul": "Perkembangan Pesat", "deskripsi": "Jumlah santri mencapai 350+ orang dengan berbagai fasilitas dan unit usaha mandiri.", "posisi": "left" }
+      ]
+    },
+    "mitra": [
+      "Kemenag RI", "Kopontren", "RA", "MDA", "MI", "SMPIT", "MA"
+    ]
+  }
+]

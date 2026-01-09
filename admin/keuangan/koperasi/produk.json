@@ -1,0 +1,72 @@
+[
+  {
+    "id_produk": "PRD-KTB-001",
+    "nama": "Paket Kitab Kuning (Kelas 1)",
+    "kategori": "Kitab & Buku",
+    "supplier": "Pustaka Al-Burhani",
+    "stok": 150,
+    "harga_beli": 120000,
+    "harga_jual": 150000,
+    "gambar": ["https://imgur.com/OiVQ6M4.jpeg"]
+  },
+  {
+    "id_produk": "PRD-SRG-001",
+    "nama": "Seragam Batik Yayasan (Putra)",
+    "kategori": "Seragam",
+    "supplier": "Konveksi Santri",
+    "stok": 80,
+    "harga_beli": 100000,
+    "harga_jual": 135000,
+    "gambar": ["https://imgur.com/ucaUWIE.jpeg"]
+  },
+  {
+    "id_produk": "PRD-SRG-002",
+    "nama": "Gamis Seragam Putri (Hijau)",
+    "kategori": "Seragam",
+    "supplier": "Konveksi Santri",
+    "stok": 65,
+    "harga_beli": 140000,
+    "harga_jual": 180000,
+    "gambar": ["https://imgur.com/oEQ53km.jpeg"]
+  },
+  {
+    "id_produk": "PRD-ATR-001",
+    "nama": "Peci Hitam Berlogo",
+    "kategori": "Atribut",
+    "supplier": "Vendor Lokal",
+    "stok": 200,
+    "harga_beli": 35000,
+    "harga_jual": 50000,
+    "gambar": ["https://placehold.co/400x400/1e293b/ffffff?text=Peci+Logo"]
+  },
+  {
+    "id_produk": "PRD-FURN-01",
+    "nama": "Lemari Santri (2 Pintu)",
+    "kategori": "Perlengkapan",
+    "supplier": "Burhani Woodworks",
+    "stok": 15,
+    "harga_beli": 550000,
+    "harga_jual": 750000,
+    "gambar": ["https://imgur.com/A8dLVcf.jpeg", "https://imgur.com/6VslqMF.jpeg"]
+  },
+  {
+    "id_produk": "PRD-MKN-001",
+    "nama": "Roti Sisir (Produksi Dapur)",
+    "kategori": "Makanan",
+    "supplier": "Dapur Umma",
+    "stok": 50,
+    "harga_beli": 3000,
+    "harga_jual": 5000,
+    "gambar": ["https://placehold.co/400x400/fbbf24/ffffff?text=Roti"]
+  },
+  {
+    "id_produk": "PRD-MKN-002",
+    "nama": "Air Mineral Al-Burhani 600ml",
+    "kategori": "Minuman",
+    "supplier": "Unit RO Pesantren",
+    "stok": 500,
+    "harga_beli": 2000,
+    "harga_jual": 4000,
+    "gambar": ["https://placehold.co/400x400/3b82f6/ffffff?text=Air+Mineral"]
+  }
+]

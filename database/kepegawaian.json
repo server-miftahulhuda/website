@@ -1,0 +1,118 @@
+[
+  {
+    "id_pegawai": "EMP-001",
+    "data_pribadi": {
+      "nik": "3214010101700001",
+      "nama_lengkap": "KH. Darul Falah",
+      "tempat_lahir": "Purwakarta",
+      "tanggal_lahir": "1970-01-01",
+      "jenis_kelamin": "L",
+      "agama": "Islam",
+      "status_pernikahan": "Menikah",
+      "jumlah_tanggungan": 4,
+      "alamat_ktp": "Kp. Tegal Jati, Plered",
+      "domisili": "Komplek Pesantren",
+      "no_hp": "081234567001",
+      "email": "-"
+    },
+    "data_kepegawaian": {
+      "nip_niy": "01.001.YPP",
+      "kategori_pegawai": "Struktural",
+      "status_karyawan": "Tetap Yayasan",
+      "jenis_ptk": "Pimpinan Pesantren",
+      "tanggal_masuk": "2000-01-01",
+      "masa_kerja": "24 Tahun",
+      "jabatan_struktural": "Pimpinan Pondok",
+      "jabatan_fungsional": "Kyai",
+      "unit_kerja": "Yayasan",
+      "golongan": "-",
+      "pendidikan_terakhir": {
+        "jenjang": "S1",
+        "jurusan": "Pendidikan Agama Islam",
+        "institusi": "UIN SGD Bandung",
+        "tahun_lulus": "1995"
+      }
+    },
+    "data_penggajian": {
+      "komponen_gaji": {
+        "gaji_pokok": 5000000,
+        "tunjangan_jabatan": 2000000,
+        "tunjangan_fungsional": 0,
+        "tunjangan_keluarga": 500000,
+        "tunjangan_transport": 0,
+        "tunjangan_makan": 0,
+        "tunjangan_kinerja": 0
+      },
+      "potongan": {
+        "bpjs_kesehatan": 0,
+        "bpjs_ketenagakerjaan": 0,
+        "simpanan_koperasi": 0,
+        "infaq_masjid": 0
+      },
+      "info_rekening": {
+        "nama_bank": "BSI",
+        "nomor_rekening": "1234567890",
+        "atas_nama": "Darul Falah"
+      },
+      "total_take_home_pay": 7500000
+    }
+  },
+  {
+    "id_pegawai": "EMP-002",
+    "data_pribadi": {
+      "nik": "3214010101850002",
+      "nama_lengkap": "Ust. Ghozali, S.Pd.I",
+      "tempat_lahir": "Purwakarta",
+      "tanggal_lahir": "1985-05-10",
+      "jenis_kelamin": "L",
+      "agama": "Islam",
+      "status_pernikahan": "Menikah",
+      "jumlah_tanggungan": 2,
+      "alamat_ktp": "Plered",
+      "domisili": "Asrama Putra",
+      "no_hp": "081234567002",
+      "email": "ghozali@alburhani.ponpes.id"
+    },
+    "data_kepegawaian": {
+      "nip_niy": "02.007.YPP",
+      "kategori_pegawai": "Pengajar",
+      "status_karyawan": "Tetap Yayasan",
+      "jenis_ptk": "Guru Mapel",
+      "tanggal_masuk": "2010-07-01",
+      "masa_kerja": "14 Tahun",
+      "jabatan_struktural": "Kaur Pendidikan",
+      "jabatan_fungsional": "Guru Madya",
+      "unit_kerja": "Madrasah",
+      "golongan": "-",
+      "pendidikan_terakhir": {
+        "jenjang": "S1",
+        "jurusan": "PAI",
+        "institusi": "STAI Purwakarta",
+        "tahun_lulus": "2009"
+      }
+    },
+    "data_penggajian": {
+      "komponen_gaji": {
+        "gaji_pokok": 2500000,
+        "tunjangan_jabatan": 500000,
+        "tunjangan_fungsional": 300000,
+        "tunjangan_keluarga": 200000,
+        "tunjangan_transport": 150000,
+        "tunjangan_makan": 300000,
+        "tunjangan_kinerja": 200000
+      },
+      "potongan": {
+        "bpjs_kesehatan": 50000,
+        "bpjs_ketenagakerjaan": 25000,
+        "simpanan_koperasi": 20000,
+        "infaq_masjid": 10000
+      },
+      "info_rekening": {
+        "nama_bank": "BRI",
+        "nomor_rekening": "0987654321",
+        "atas_nama": "Ghozali"
+      },
+      "total_take_home_pay": 4045000
+    }
+  }
+]

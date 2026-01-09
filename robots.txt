@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /database/
+Disallow: /realtime/
+
+Sitemap: https://pesantrenku.sch.id/sitemap.xml

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "UNIT-MEBEL-01",
+    "nama": "Burhani Woodworks & Interior",
+    "kategori": "Manufaktur Kreatif",
+    "deskripsi": "Unit usaha unggulan yang dikelola oleh santri vokasi dan tenaga ahli. Memproduksi furniture custom (lemari, kitchen set, dipan, meja kantor) dengan kualitas kayu terbaik. Produk ini telah melayani pesanan instansi pemerintah, perumahan, dan kebutuhan internal asrama.",
+    "pasar": "Eksternal & Internal",
+    "statistik": [
+      { "label": "Proyek Selesai", "value": "200+" },
+      { "label": "Santri Magang", "value": "35 Orang" },
+      { "label": "Omset/Bln", "value": "± 50 Juta" }
+    ],
+    "gambar": [
+      "https://imgur.com/XrwN2r7.jpeg",
+      "https://imgur.com/55lgXVj.jpeg",
+      "https://imgur.com/A8dLVcf.jpeg"
+    ],
+    "tautan": {
+      "label": "Katalog Furniture",
+      "url": "https://wa.me/6281234567890?text=Saya%20tertarik%20dengan%20produk%20furniture"
+    }
+  },
+  {
+    "id": "UNIT-TANI-02",
+    "nama": "Agro Tani Al-Burhani",
+    "kategori": "Pertanian",
+    "deskripsi": "Pengelolaan lahan wakaf produktif untuk pertanian padi dan palawija. Unit ini bertujuan mewujudkan kemandirian pangan pesantren (swasembada beras) sekaligus menjadi laboratorium alam bagi santri untuk belajar ilmu tani modern.",
+    "pasar": "Internal (Dapur)",
+    "statistik": [
+      { "label": "Luas Lahan", "value": "3 Hektar" },
+      { "label": "Panen", "value": "2x Setahun" },
+      { "label": "Produksi", "value": "15 Ton/Thn" }
+    ],
+    "gambar": [
+      "https://imgur.com/ObJFrUf.jpeg",
+      "https://imgur.com/I1l4ENf.jpeg"
+    ],
+    "tautan": {
+      "label": "Info Zakat Pertanian",
+      "url": "https://wa.me/6281234567890"
+    }
+  },
+  {
+    "id": "UNIT-TERNAK-03",
+    "nama": "Peternakan Domba Barokah",
+    "kategori": "Peternakan",
+    "deskripsi": "Budidaya penggemukan domba dan kambing untuk kebutuhan Aqiqah dan Qurban masyarakat Purwakarta. Menggunakan sistem pakan fermentasi yang higienis dan dikelola langsung oleh santri piket.",
+    "pasar": "Eksternal",
+    "statistik": [
+      { "label": "Populasi", "value": "80 Ekor" },
+      { "label": "Penjualan", "value": "Musiman" },
+      { "label": "Layanan", "value": "Aqiqah Siap Saji" }
+    ],
+    "gambar": [
+      "https://placehold.co/600x400/52525b/ffffff?text=Kandang+Domba",
+      "https://placehold.co/600x400/3f3f46/ffffff?text=Domba+Garut"
+    ],
+    "tautan": {
+      "label": "Pesan Aqiqah",
+      "url": "https://wa.me/6281234567890"
+    }
+  }
+]

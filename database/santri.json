@@ -1,0 +1,152 @@
+[
+  {
+    "verifikasi_santri": {
+      "id_santri": "STR-2024-001",
+      "status": "Aktif",
+      "bergabung": "2024-07-15"
+    },
+    "data_santri": {
+      "nik": "3214012345670001",
+      "nama_lengkap": "Ahmad Zaki Al-Farisi",
+      "nama_panggilan": "Zaki",
+      "tempat_lahir": "Purwakarta",
+      "tanggal_lahir": "2011-05-20",
+      "jenis_kelamin": "L",
+      "golongan_darah": "O",
+      "hobi": "Pertukangan",
+      "anak_ke": 1,
+      "foto_profil": "https://placehold.co/400x400/064e3b/ffffff?text=Zaki"
+    },
+    "data_akademik": {
+      "nisn": "0012345678",
+      "jenjang": "SMP IT",
+      "kelas": "7",
+      "jurusan": "-",
+      "tahun_masuk": "2024",
+      "tahun_lulus": "2027",
+      "asal_sekolah": "SDN 1 Plered",
+      "program_pesantren": "Kitab Kuning"
+    },
+    "alamat_domisili": {
+      "jalan": "Kp. Tegal Jati RT 02/05",
+      "rt": "02",
+      "rw": "05",
+      "kode_pos": "41162",
+      "desa": "Cibogohilir",
+      "kecamatan": "Plered",
+      "kabupaten": "Purwakarta",
+      "provinsi": "Jawa Barat"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "H. Rahmat Hidayat",
+        "nik": "3214010101800001",
+        "pekerjaan": "Wiraswasta",
+        "penghasilan": 5000000,
+        "no_wa": "081234567890",
+        "email": "-"
+      },
+      "ibu": {
+        "nama": "Hj. Siti Aminah",
+        "nik": "3214010202850002",
+        "pekerjaan": "Ibu Rumah Tangga",
+        "penghasilan": 0,
+        "no_wa": "081298765432",
+        "email": "-"
+      },
+      "wali": {
+        "nik": "",
+        "nama": "",
+        "hubungan": "",
+        "pekerjaan": "",
+        "penghasilan": 0,
+        "no_wa": "",
+        "email": ""
+      }
+    },
+    "dokumen_arsip": {
+      "kk": "https://drive.google.com/file/d/dummy-kk",
+      "ktp_ortu": "",
+      "akta": "",
+      "ijazah": "",
+      "kartu_santri": "",
+      "pas_foto": "",
+      "bukti_bayar": ""
+    }
+  },
+  {
+    "verifikasi_santri": {
+      "id_santri": "STR-2024-002",
+      "status": "Aktif",
+      "bergabung": "2024-07-16"
+    },
+    "data_santri": {
+      "nik": "3214012345670002",
+      "nama_lengkap": "Fatimatuz Zahra",
+      "nama_panggilan": "Ima",
+      "tempat_lahir": "Subang",
+      "tanggal_lahir": "2011-08-17",
+      "jenis_kelamin": "P",
+      "golongan_darah": "A",
+      "hobi": "Memasak",
+      "anak_ke": 2,
+      "foto_profil": "https://placehold.co/400x400/be185d/ffffff?text=Ima"
+    },
+    "data_akademik": {
+      "nisn": "0012345679",
+      "jenjang": "SMP IT",
+      "kelas": "7",
+      "jurusan": "-",
+      "tahun_masuk": "2024",
+      "tahun_lulus": "2027",
+      "asal_sekolah": "MI Al-Huda",
+      "program_pesantren": "Tahfidz"
+    },
+    "alamat_domisili": {
+      "jalan": "Jl. Raya Subang No. 45",
+      "rt": "05",
+      "rw": "01",
+      "kode_pos": "41211",
+      "desa": "Sukamulya",
+      "kecamatan": "Pagaden",
+      "kabupaten": "Subang",
+      "provinsi": "Jawa Barat"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "Budi Santoso",
+        "nik": "",
+        "pekerjaan": "Karyawan Swasta",
+        "penghasilan": 4500000,
+        "no_wa": "081345678901",
+        "email": "-"
+      },
+      "ibu": {
+        "nama": "Rina Wati",
+        "nik": "",
+        "pekerjaan": "Guru",
+        "penghasilan": 3000000,
+        "no_wa": "081398765432",
+        "email": "-"
+      },
+      "wali": {
+        "nik": "",
+        "nama": "",
+        "hubungan": "",
+        "pekerjaan": "",
+        "penghasilan": 0,
+        "no_wa": "",
+        "email": ""
+      }
+    },
+    "dokumen_arsip": {
+      "kk": "",
+      "ktp_ortu": "",
+      "akta": "",
+      "ijazah": "",
+      "kartu_santri": "",
+      "pas_foto": "",
+      "bukti_bayar": ""
+    }
+  }
+]

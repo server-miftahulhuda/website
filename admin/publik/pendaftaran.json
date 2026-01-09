@@ -1,0 +1,43 @@
+[
+  {
+    "jadwal": [
+      {
+        "gelombang": "1",
+        "label": "Gelombang Dini",
+        "waktu": {
+          "mulai": "2024-10-01",
+          "selesai": "2024-12-31",
+          "tes": "One Day Service (Ahad)"
+        }
+      },
+      {
+        "gelombang": "2",
+        "label": "Gelombang Reguler",
+        "waktu": {
+          "mulai": "2025-01-01",
+          "selesai": "2025-03-31",
+          "tes": "Setiap Ahad (Offline)"
+        }
+      },
+      {
+        "gelombang": "3",
+        "label": "Gelombang Akhir",
+        "waktu": {
+          "mulai": "2025-04-01",
+          "selesai": "2025-06-30",
+          "tes": "Menyesuaikan Kuota"
+        }
+      }
+    ],
+    "kontak": [
+      {
+        "nama": "Panitia Putra",
+        "telpon": "6281234567890"
+      },
+      {
+        "nama": "Panitia Putri",
+        "telpon": "6281234567891"
+      }
+    ]
+  }
+]

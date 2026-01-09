@@ -1,0 +1,40 @@
+[
+  {
+    "bank": [
+      {
+        "bank": "Bank Syariah Indonesia (BSI)",
+        "rekening": "7193-4937-28",
+        "pemilik": "Yayasan Miftahul Huda Al-Burhani"
+      },
+      {
+        "bank": "Bank BRI",
+        "rekening": "4001-01-023456-53-1",
+        "pemilik": "Ponpes Miftahul Huda Al-Burhani"
+      },
+      {
+        "bank": "Bank BJB",
+        "rekening": "0012-3456-7890",
+        "pemilik": "Kopontren Al-Burhani"
+      }
+    ],
+    "ewallet": [
+      {
+        "jenis": "GoPay",
+        "nomor": "0812-3456-7890",
+        "pemilik": "Admin Keuangan"
+      },
+      {
+        "jenis": "Dana",
+        "nomor": "0812-3456-7890",
+        "pemilik": "Admin Keuangan"
+      }
+    ],
+    "QRIS": {
+      "gambar": "https://placehold.co/300x300/ffffff/000000?text=QRIS+Al-Burhani",
+      "pemilik": "Yayasan Miftahul Huda Al-Burhani"
+    },
+    "kontak": [
+      "6281234567890"
+    ]
+  }
+]

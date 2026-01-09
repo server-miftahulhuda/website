@@ -1,0 +1,51 @@
+[
+  {
+    "id_biaya": "BY-BG-001",
+    "pos": "Bangunan",
+    "kategori": "Uang Pangkal / Bangunan (Awal)",
+    "periode": "sekali",
+    "nominal": 3500000
+  },
+  {
+    "id_biaya": "BY-OPS-001",
+    "pos": "Operasional",
+    "kategori": "Infaq Syahriah (SPP)",
+    "periode": "bulanan",
+    "nominal": 150000
+  },
+  {
+    "id_biaya": "BY-MKN-001",
+    "pos": "Makan",
+    "kategori": "Uang Makan (3x Sehari)",
+    "periode": "bulanan",
+    "nominal": 450000
+  },
+  {
+    "id_biaya": "BY-PHBI-001",
+    "pos": "PHBI",
+    "kategori": "Iuran Peringatan Hari Besar Islam",
+    "periode": "tahunan",
+    "nominal": 200000
+  },
+  {
+    "id_biaya": "BY-ADM-001",
+    "pos": "Administrasi",
+    "kategori": "Biaya Pendaftaran Santri Baru",
+    "periode": "sekali",
+    "nominal": 250000
+  },
+  {
+    "id_biaya": "BY-KES-001",
+    "pos": "Operasional",
+    "kategori": "Dana Kesehatan (Poskestren)",
+    "periode": "semesteran",
+    "nominal": 50000
+  },
+  {
+    "id_biaya": "BY-KTS-001",
+    "pos": "Administrasi",
+    "kategori": "Cetak Kartu Santri & Raport",
+    "periode": "sekali",
+    "nominal": 100000
+  }
+]

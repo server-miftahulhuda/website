@@ -1,0 +1,39 @@
+[
+  {
+    "id_akun": "ADM-001",
+    "email": "admin@alburhani.ponpes.id",
+    "password": "admin",
+    "nama": "Super Admin",
+    "peran": "admin_sistem",
+    "jabatan": "IT Administrator",
+    "filter_santri": "",
+    "akses": [
+      "[dashboard : super]",
+      "[administrasi/agenda : super]",
+      "[administrasi/persuratan : super]",
+      "[database/kepegawaian : super]",
+      "[database/dewankiyai : super]",
+      "[database/santri : super]",
+      "[database/calonsantri : super]",
+      "[keuangan/administrasi : super]",
+      "[keuangan/aturbiaya : super]",
+      "[keuangan/bangunan : super]",
+      "[keuangan/bukutunggakan : super]",
+      "[keuangan/harian : super]",
+      "[keuangan/makan : super]",
+      "[keuangan/operasional : super]",
+      "[keuangan/phbi : super]",
+      "[keuangan/transaksiumum : super]",
+      "[koperasi/produk : super]",
+      "[koperasi/transaksi : super]",
+      "[sistem/hakadmin : super]",
+      "[sistem/manajemenai : super]",
+      "[sistem/manajemendonasi : super]",
+      "[sistem/manajemenpostingan : super]",
+      "[sistem/manajemenpublikasi : super]",
+      "[sistem/manajementampilan : super]",
+      "[sistem/pengguna : super]",
+      "[sistem/pengaturanakun : super]"
+    ]
+  }
+]

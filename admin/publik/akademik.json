@@ -1,0 +1,129 @@
+[
+  {
+    "jenjang": [
+      {
+        "id": "smpit",
+        "judul": "SMP IT Miftahul Huda",
+        "sub_judul": "Sekolah Menengah Pertama Islam Terpadu",
+        "deskripsi": "Pendidikan formal tingkat menengah yang mengintegrasikan kurikulum nasional dengan kepesantrenan.",
+        "pengajar": 15,
+        "santri": 150,
+        "logo": "https://imgur.com/5wRslAz.png",
+        "gambar": [
+          "https://imgur.com/3xbjfbN.jpeg"
+        ],
+        "aksen": "#3b82f6",
+        "kepala": {
+          "nama": "Kepala SMP IT",
+          "pengalaman": "-",
+          "gambar": "https://placehold.co/100x100/3b82f6/ffffff?text=SMPIT"
+        }
+      },
+      {
+        "id": "ma",
+        "judul": "MA Miftahul Huda",
+        "sub_judul": "Madrasah Aliyah",
+        "deskripsi": "Jenjang pendidikan menengah atas yang mempersiapkan santri untuk perguruan tinggi dan pengabdian masyarakat.",
+        "pengajar": 12,
+        "santri": 100,
+        "logo": "https://imgur.com/5wRslAz.png",
+        "gambar": [
+          "https://imgur.com/OiA5VHP.jpeg"
+        ],
+        "aksen": "#f59e0b",
+        "kepala": {
+          "nama": "Kepala MA",
+          "pengalaman": "-",
+          "gambar": "https://placehold.co/100x100/f59e0b/ffffff?text=MA"
+        }
+      },
+      {
+        "id": "pesantren",
+        "judul": "Pesantren Salaf",
+        "sub_judul": "RA, MDA, MI & Pondok",
+        "deskripsi": "Pendidikan diniyah mulai dari tingkat dasar (RA/MI) hingga pendalaman kitab kuning di pondok.",
+        "pengajar": 20,
+        "santri": 100,
+        "logo": "https://imgur.com/5wRslAz.png",
+        "gambar": [
+          "https://imgur.com/PQVdBRF.jpeg"
+        ],
+        "aksen": "#059669",
+        "kepala": {
+          "nama": "KH. Darul Falah",
+          "pengalaman": "Pimpinan",
+          "gambar": "https://placehold.co/100x100/059669/ffffff?text=KH"
+        }
+      }
+    ],
+    "pilar": [
+      {
+        "judul": "Kitab Kuning",
+        "organisasi": "Turats",
+        "deskripsi": "Pendalaman ilmu agama Islam klasik.",
+        "gambar": "https://imgur.com/PQVdBRF.jpeg"
+      },
+      {
+        "judul": "Keterampilan",
+        "organisasi": "Vocational",
+        "deskripsi": "Desain interior, produksi furniture costume, tani, dan ternak.",
+        "gambar": "https://imgur.com/XrwN2r7.jpeg"
+      },
+      {
+        "judul": "Bahasa",
+        "organisasi": "Language",
+        "deskripsi": "Penguasaan Bahasa Arab & Inggris.",
+        "gambar": "https://imgur.com/o3T9lBC.jpeg"
+      }
+    ],
+    "program": [
+      {
+        "judul": "Furniture Custom",
+        "deskripsi": "Pelatihan desain interior dan produksi furniture sebagai bekal wirausaha.",
+        "tag": "Kemandirian"
+      },
+      {
+        "judul": "Kitab Kuning",
+        "deskripsi": "Kajian kitab-kitab muktabarah.",
+        "tag": "Diniyah"
+      },
+      {
+        "judul": "Tahfidz Qur'an",
+        "deskripsi": "Program hafalan Al-Qur'an bersanad.",
+        "tag": "Spiritual"
+      },
+      {
+        "judul": "Tani & Ternak",
+        "deskripsi": "Pengembangan usaha pertanian dan peternakan.",
+        "tag": "Agrobisnis"
+      }
+    ],
+    "kegiatan": {
+      "harian": [
+        { "no": 1, "jam": "03.30 – 05.00", "kegiatan": "Qiyamullail & Subuh Berjamaah" },
+        { "no": 2, "jam": "07.00 – 13.00", "kegiatan": "Sekolah Formal (SMPIT/MA)" },
+        { "no": 3, "jam": "14.00 – 15.00", "kegiatan": "Pelatihan Keterampilan (Furniture/Tani)" },
+        { "no": 4, "jam": "16.00 – 17.00", "kegiatan": "Pengajian Kitab Kuning" },
+        { "no": 5, "jam": "18.30 – 20.00", "kegiatan": "Al-Qur'an & Tajwid" }
+      ],
+      "mingguan": [
+        { "no": 1, "waktu": "Malam Jumat", "kegiatan": "Muhadharah & Tahlil" },
+        { "no": 2, "waktu": "Hari Minggu", "kegiatan": "Kerja Bakti & Olahraga" }
+      ],
+      "bulanan": [
+        { "no": 1, "kegiatan": "Pengajian Bulanan Wali Santri" }
+      ],
+      "tahunan": [
+        { "no": 1, "kegiatan": "PHBI (Maulid, Rajab)" },
+        { "no": 2, "kegiatan": "Tafaruqon / Wisuda" }
+      ]
+    },
+    "mata_pelajaran": [
+      { "nama": "Tauhid", "deskripsi": "Dasar keimanan" },
+      { "nama": "Fiqih", "deskripsi": "Hukum Islam" },
+      { "nama": "Nahwu Shorof", "deskripsi": "Tata Bahasa Arab" },
+      { "nama": "Desain Interior", "deskripsi": "Keterampilan Kejuruan" },
+      { "nama": "Pertanian", "deskripsi": "Keterampilan Kejuruan" }
+    ]
+  }
+]

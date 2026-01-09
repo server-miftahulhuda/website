@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2024-10-15T08:30:00Z",
+    "id_donasi": "CMP-WORKSHOP-01",
+    "nominal": 500000,
+    "donatur": {
+      "nama": "Hamba Allah",
+      "whatsapp": "-",
+      "email": "-"
+    },
+    "pembayaran": {
+      "sistem": "Bank",
+      "jenis": "BSI",
+      "no_rek": "7193...",
+      "pemilik": "Yayasan"
+    },
+    "status": "Verified",
+    "catatan": "Untuk alat workshop"
+  },
+  {
+    "timestamp": "2024-10-10T10:00:00Z",
+    "id_donasi": "CMP-ASRAMA-02",
+    "nominal": 1000000,
+    "donatur": {
+      "nama": "Bapak Rizki",
+      "whatsapp": "0812...",
+      "email": "-"
+    },
+    "pembayaran": {
+      "sistem": "QRIS",
+      "jenis": "QRIS",
+      "no_rek": "-",
+      "pemilik": "Yayasan"
+    },
+    "status": "Verified",
+    "catatan": "Semen 10 Sak"
+  }
+]

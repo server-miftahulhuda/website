@@ -1,0 +1,28 @@
+[
+  {
+    "verifikasi_akun": {
+      "id_notifikasi": "NTF-001",
+      "id_santri": "STR-2024-001"
+    },
+    "notifikasi": {
+      "kategori": "payment",
+      "judul": "Pembayaran SPP Diterima",
+      "pesan": "Alhamdulillah, pembayaran Syahriah bulan Oktober 2024 telah kami terima. Terima kasih.",
+      "waktu": "2024-10-05 08:30",
+      "dibaca": false
+    }
+  },
+  {
+    "verifikasi_akun": {
+      "id_notifikasi": "NTF-002",
+      "id_santri": "STR-2024-001"
+    },
+    "notifikasi": {
+      "kategori": "academic",
+      "judul": "Jadwal Ujian Semester",
+      "pesan": "Ujian Akhir Semester Ganjil akan dilaksanakan mulai tanggal 2 Desember 2024. Mohon doanya.",
+      "waktu": "2024-11-25 10:00",
+      "dibaca": true
+    }
+  }
+]

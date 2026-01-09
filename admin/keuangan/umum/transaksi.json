@@ -1,0 +1,29 @@
+[
+  {
+    "id_transaksi": "TRX-SPP-001",
+    "tanggal": "2024-10-05T08:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": { "id": "STR-2024-001", "nama": "Ahmad Zaki Al-Farisi" },
+    "peruntukan": { "pos": "Operasional", "kategori": "Infaq Syahriah", "id_ref": "BY-OPS-001" },
+    "pembayaran": { "metode": "Transfer", "sistem": "Bank", "penyedia": "BSI", "no_rek": "...", "penerima": "Bendahara", "nominal": 150000, "catatan": "SPP Oktober" }
+  },
+  {
+    "id_transaksi": "TRX-BG-001",
+    "tanggal": "2024-07-20T09:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": { "id": "STR-2024-001", "nama": "Ahmad Zaki Al-Farisi" },
+    "peruntukan": { "pos": "Bangunan", "kategori": "Uang Pangkal", "id_ref": "BY-BG-001" },
+    "pembayaran": { "metode": "Transfer", "sistem": "Bank", "penyedia": "BSI", "no_rek": "...", "penerima": "Yayasan", "nominal": 2000000, "catatan": "Cicilan 1 Bangunan" }
+  },
+  {
+    "id_transaksi": "TRX-MKN-001",
+    "tanggal": "2024-10-01T07:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": { "id": "STR-2024-002", "nama": "Fatimatuz Zahra" },
+    "peruntukan": { "pos": "Makan", "kategori": "Uang Makan", "id_ref": "BY-MKN-001" },
+    "pembayaran": { "metode": "Tunai", "sistem": "-", "penyedia": "-", "no_rek": "-", "penerima": "Dapur", "nominal": 450000, "catatan": "Makan Oktober" }
+  }
+]

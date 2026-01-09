@@ -1,0 +1,87 @@
+[
+  {
+    "id": "NEWS-2024-10-FURNITURE",
+    "timestamp": "20 Okt 2024",
+    "judul": "Karya Santri Al-Burhani: Furniture Custom Tembus Pasar Eksterior",
+    "kategori": "Kemandirian",
+    "penulis": "Unit Usaha Ponpes",
+    "tag": ["Vokasi", "Furniture", "Santripreneur", "Ekonomi"],
+    "konten": [
+      {
+        "jenis": "gambar",
+        "isi": "https://imgur.com/XrwN2r7.jpeg",
+        "hyperlink": ""
+      },
+      {
+        "jenis": "teks",
+        "isi": "Unit usaha Burhani Woodworks kembali mengirimkan pesanan furniture custom berupa lemari dan kitchen set untuk perumahan di kawasan Purwakarta dan sekitarnya. Produk ini murni hasil karya santri yang tergabung dalam program vokasi pertukangan.",
+        "hyperlink": ""
+      },
+      {
+        "jenis": "teks",
+        "isi": "Pimpinan Pondok, KH. Darul Falah, menyampaikan bahwa program ini bertujuan membekali santri dengan hard skill agar siap mandiri setelah lulus, tanpa meninggalkan kewajiban mengaji kitab kuning.",
+        "hyperlink": ""
+      }
+    ]
+  },
+  {
+    "id": "NEWS-2024-09-PHBI",
+    "timestamp": "15 Sep 2024",
+    "judul": "Peringatan Maulid Nabi: Ribuan Jamaah Padati Halaman Pesantren",
+    "kategori": "Kegiatan",
+    "penulis": "Humas",
+    "tag": ["PHBI", "Maulid", "Pengajian"],
+    "konten": [
+      {
+        "jenis": "gambar",
+        "isi": "https://imgur.com/aXj9HeL.jpg",
+        "hyperlink": ""
+      },
+      {
+        "jenis": "teks",
+        "isi": "Gema sholawat terdengar syahdu di Desa Cibogohilir saat ribuan jamaah menghadiri peringatan Maulid Nabi Muhammad SAW di Ponpes Miftahul Huda Al-Burhani. Acara diisi dengan tausiyah kebangsaan dan penampilan Hadroh santri.",
+        "hyperlink": ""
+      }
+    ]
+  },
+  {
+    "id": "NEWS-2024-08-PANEN",
+    "timestamp": "25 Agt 2024",
+    "judul": "Panen Raya Padi: Kemandirian Pangan dari Lahan Wakaf",
+    "kategori": "Pertanian",
+    "penulis": "Tim Tani Santri",
+    "tag": ["Pertanian", "Panen", "Ketahanan Pangan"],
+    "konten": [
+      {
+        "jenis": "gambar",
+        "isi": "https://imgur.com/ObJFrUf.jpeg",
+        "hyperlink": ""
+      },
+      {
+        "jenis": "teks",
+        "isi": "Alhamdulillah, unit usaha pertanian santri berhasil melakukan panen raya padi di lahan wakaf pesantren. Hasil panen ini akan digunakan untuk kebutuhan dapur santri, mewujudkan kemandirian pangan dari santri untuk santri.",
+        "hyperlink": ""
+      }
+    ]
+  },
+  {
+    "id": "NEWS-2024-07-TAFARUQON",
+    "timestamp": "10 Jul 2024",
+    "judul": "Haflah Akhirussanah: Wisuda Santri Kitab & Tahfidz",
+    "kategori": "Pendidikan",
+    "penulis": "Panitia Haflah",
+    "tag": ["Wisuda", "Imtihan", "Prestasi"],
+    "konten": [
+      {
+        "jenis": "gambar",
+        "isi": "https://imgur.com/s5N0NyZ.jpg",
+        "hyperlink": ""
+      },
+      {
+        "jenis": "teks",
+        "isi": "Suasana haru menyelimuti acara perpisahan (Tafaruqon) santri kelas akhir. Sebanyak 50 santri dinyatakan lulus ujian kitab Alfiyah dan 20 santri menyelesaikan hafalan Al-Qur'an 30 Juz.",
+        "hyperlink": ""
+      }
+    ]
+  }
+]

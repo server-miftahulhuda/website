@@ -1,0 +1,16 @@
+[
+  {
+    "id_donatur": "DNR-001",
+    "nama": "Bapak Rizki",
+    "email": "-",
+    "telpon": "0812xxxx",
+    "jumlah_donasi": 1000000
+  },
+  {
+    "id_donatur": "DNR-002",
+    "nama": "Hamba Allah",
+    "email": "-",
+    "telpon": "-",
+    "jumlah_donasi": 500000
+  }
+]

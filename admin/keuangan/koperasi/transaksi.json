@@ -1,0 +1,54 @@
+[
+  {
+    "id_transaksi": "TRX-KOP-001",
+    "jenis_transaksi": {
+      "tanggal": "2024-10-10",
+      "jenis": "Pemasukan",
+      "metode": "Tunai",
+      "keterangan": "Belanja Kitab",
+      "total_nominal": 150000,
+      "status": "Selesai"
+    },
+    "produk": [
+      {
+        "id_produk": "PRD-KTB-001",
+        "kategori": "Kitab",
+        "nama": "Paket Kitab Kuning",
+        "qty": 1,
+        "harga_beli": 120000,
+        "harga_jual": 150000
+      }
+    ],
+    "pihak": {
+      "kategori": "Santri",
+      "nama": "Ahmad Zaki",
+      "id_akun": "STR-2024-001"
+    }
+  },
+  {
+    "id_transaksi": "TRX-KOP-002",
+    "jenis_transaksi": {
+      "tanggal": "2024-10-12",
+      "jenis": "Pemasukan",
+      "metode": "Tabungan",
+      "keterangan": "Jajan Kantin",
+      "total_nominal": 15000,
+      "status": "Selesai"
+    },
+    "produk": [
+      {
+        "id_produk": "PRD-MKN-001",
+        "kategori": "Makanan",
+        "nama": "Roti Sisir",
+        "qty": 3,
+        "harga_beli": 3000,
+        "harga_jual": 5000
+      }
+    ],
+    "pihak": {
+      "kategori": "Santri",
+      "nama": "Fatimatuz Zahra",
+      "id_akun": "STR-2024-002"
+    }
+  }
+]

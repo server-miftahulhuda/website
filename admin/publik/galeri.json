@@ -1,0 +1,56 @@
+[
+  {
+    "timestamp": "2024-10-01",
+    "tipe": "Fasilitas",
+    "judul": "Workshop Furniture",
+    "keterangan": "Ruang praktik santri memproduksi furniture custom.",
+    "link": "https://imgur.com/55lgXVj.jpeg",
+    "link_aksi": "",
+    "ratio": "4:3"
+  },
+  {
+    "timestamp": "2024-09-20",
+    "tipe": "Kegiatan Santri",
+    "judul": "Praktik Pertanian",
+    "keterangan": "Santri belajar mengelola lahan sawah produktif.",
+    "link": "https://imgur.com/I1l4ENf.jpeg",
+    "link_aksi": "",
+    "ratio": "1:1"
+  },
+  {
+    "timestamp": "2024-09-15",
+    "tipe": "Prestasi",
+    "judul": "Produk Unggulan",
+    "keterangan": "Hasil karya lemari dan interior buatan santri.",
+    "link": "https://imgur.com/XrwN2r7.jpeg",
+    "link_aksi": "",
+    "ratio": "1:1"
+  },
+  {
+    "timestamp": "2024-08-10",
+    "tipe": "Kegiatan Santri",
+    "judul": "Kajian Kitab Kuning",
+    "keterangan": "Rutinitas pengajian sorogan ba'da Maghrib.",
+    "link": "https://imgur.com/PQVdBRF.jpeg",
+    "link_aksi": "",
+    "ratio": "16:9"
+  },
+  {
+    "timestamp": "2024-07-05",
+    "tipe": "Fasilitas",
+    "judul": "Masjid Jami Al-Burhani",
+    "keterangan": "Pusat ibadah dan kegiatan keagamaan santri.",
+    "link": "https://imgur.com/0UfyvpN.png",
+    "link_aksi": "",
+    "ratio": "16:9"
+  },
+  {
+    "timestamp": "2024-06-20",
+    "tipe": "Kegiatan Santri",
+    "judul": "Makan Berjamaah",
+    "keterangan": "Kebersamaan santri dalam tradisi makan nampan.",
+    "link": "https://imgur.com/ObJFrUf.jpeg",
+    "link_aksi": "",
+    "ratio": "1:1"
+  }
+]

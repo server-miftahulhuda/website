@@ -1,0 +1,46 @@
+[
+  {
+    "id_donasi": "CMP-WORKSHOP-01",
+    "kategori": "Wakaf Produktif",
+    "judul": "Pengembangan Alat Workshop Vokasi",
+    "pos": "Operasional",
+    "gambar": [
+      "https://imgur.com/55lgXVj.jpeg",
+      "https://imgur.com/XrwN2r7.jpeg"
+    ],
+    "target": {
+      "waktu": "2025-12-31",
+      "nominal": 150000000
+    },
+    "deskripsi": "Bantu kami mencetak santri mandiri dengan berwakaf untuk pengadaan alat-alat pertukangan modern (mesin potong, serut, finishing) guna mendukung unit usaha Furniture Al-Burhani. Hasil usaha ini akan kembali untuk operasional pesantren."
+  },
+  {
+    "id_donasi": "CMP-ASRAMA-02",
+    "kategori": "Pembangunan",
+    "judul": "Pembangunan Asrama Putra Lantai 2",
+    "pos": "Bangunan",
+    "gambar": [
+      "https://imgur.com/s5N0NyZ.jpg",
+      "https://placehold.co/800x600/065f46/ffffff?text=Konstruksi+Asrama"
+    ],
+    "target": {
+      "waktu": "2026-06-30",
+      "nominal": 750000000
+    },
+    "deskripsi": "Mengingat bertambahnya jumlah santri, kami sedang membangun asrama putra lantai 2. Mari alirkan pahala jariyah dengan berdonasi semen, bata, atau uang tunai untuk tempat istirahat para penghafal Qur'an."
+  },
+  {
+    "id_donasi": "umum",
+    "kategori": "Operasional",
+    "judul": "Infaq Operasional Pesantren",
+    "pos": "Operasional",
+    "gambar": [
+      "https://placehold.co/800x600/064e3b/ffffff?text=Operasional+Harian"
+    ],
+    "target": {
+      "waktu": "-",
+      "nominal": 0
+    },
+    "deskripsi": "Donasi rutin untuk kebutuhan listrik, air, kebersihan, dan biaya makan santri yatim dhuafa di Pondok Pesantren Miftahul Huda Al-Burhani."
+  }
+]

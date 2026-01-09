@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{title}}</title>
+    <style>
+        /* Reset & Base Styles */
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f1f5f9; /* Slate 100 */
+            margin: 0;
+            padding: 0;
+            color: #334155; /* Slate 700 */
+            -webkit-font-smoothing: antialiased;
+        }
+        
+        /* Main Container */
+        .wrapper {
+            width: 100%;
+            table-layout: fixed;
+            background-color: #f1f5f9;
+            padding-bottom: 40px;
+        }
+        
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            border-radius: 8px; /* Rounded corners updated */
+            overflow: hidden;
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        }
+
+        /* Header Section */
+        .header {
+            background-color: #064e3b; /* Emerald 900 */
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 4px solid #fbbf24; /* Amber 400 accent */
+        }
+        
+        .logo-title {
+            color: #ffffff;
+            font-size: 26px;
+            font-weight: 800;
+            margin: 0;
+            letter-spacing: 0.5px;
+            font-family: 'Georgia', serif;
+        }
+        
+        .logo-subtitle {
+            color: #fbbf24; /* Amber 400 */
+            font-size: 13px;
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            margin-top: 8px;
+            display: block;
+            font-weight: 600;
+        }
+
+        /* Body Content */
+        .content {
+            padding: 40px 40px;
+            text-align: center;
+        }
+
+        .greeting-title {
+            font-size: 22px;
+            font-weight: 700;
+            color: #0f172a; /* Slate 900 */
+            margin-bottom: 15px;
+        }
+
+        .message-text {
+            font-size: 15px;
+            color: #475569; /* Slate 600 */
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+
+        /* OTP/Password Box */
+        .otp-container {
+            background-color: #ecfdf5; /* Emerald 50 */
+            border: 1px solid #10b981; /* Emerald 500 */
+            border-radius: 12px;
+            padding: 25px;
+            margin: 0 auto 25px;
+            display: inline-block;
+            min-width: 240px;
+        }
+
+        .otp-label {
+            display: block;
+            font-size: 11px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #047857; /* Emerald 700 */
+            margin-bottom: 8px;
+            font-weight: 600;
+        }
+
+        .otp-code {
+            font-size: 32px;
+            font-weight: 800;
+            letter-spacing: 2px;
+            color: #064e3b; /* Emerald 900 */
+            margin: 0;
+            line-height: 1;
+            font-family: 'Courier New', Courier, monospace; /* Monospace for code/password */
+            word-break: break-all;
+        }
+
+        .security-note {
+            font-size: 13px;
+            color: #64748b;
+            background-color: #f8fafc;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 30px;
+            border-left: 4px solid #ef4444; /* Red border */
+            text-align: left;
+        }
+
+        /* Call to Action Button */
+        .btn-link {
+            display: inline-block;
+            background-color: #064e3b;
+            color: #ffffff !important;
+            text-decoration: none;
+            padding: 12px 30px;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 14px;
+            margin-top: 20px;
+            transition: background-color 0.3s;
+        }
+
+        /* Footer Section */
+        .footer {
+            background-color: #1e293b; /* Slate 800 - Dark Footer */
+            padding: 40px 20px;
+            text-align: center;
+            color: #94a3b8; /* Slate 400 */
+            font-size: 13px;
+        }
+
+        .footer-links {
+            margin-bottom: 20px;
+        }
+
+        .footer-links a {
+            color: #fbbf24; /* Amber 400 */
+            text-decoration: none;
+            margin: 0 10px;
+            font-weight: 600;
+        }
+
+        .footer-address {
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+
+        .footer-copyright {
+            font-size: 11px;
+            color: #64748b;
+            border-top: 1px solid #334155;
+            padding-top: 20px;
+            margin-top: 20px;
+        }
+
+        /* Mobile Responsive */
+        @media only screen and (max-width: 620px) {
+            .container { width: 100% !important; border-radius: 0 !important; }
+            .content { padding: 30px 20px; }
+            .otp-code { font-size: 24px; }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tr>
+                <td align="center">
+                    <div class="container">
+                        
+                        <!-- Header -->
+                        <div class="header">
+                            <h1 class="logo-title">Miftahul Huda</h1>
+                            <span class="logo-subtitle">Al-Burhani</span>
+                        </div>
+
+                        <!-- Main Content -->
+                        <div class="content">
+                            <h2 class="greeting-title">{{title}}</h2>
+                            
+                            <p class="message-text">
+                                Assalamu'alaikum Warahmatullahi Wabarakatuh,<br>
+                                Yth. <strong>{{to_name}}</strong>,<br><br>
+                                {{message}}
+                            </p>
+
+                            <!-- OTP / Password Area -->
+                            <div class="otp-container">
+                                <span class="otp-label">KODE / KATA SANDI ANDA</span>
+                                <div class="otp-code">{{otp_code}}</div>
+                            </div>
+
+                            <a href="https://www.miftahulhuda.co.id/login" class="btn-link">Masuk ke Sistem</a>
+
+                            <div class="security-note">
+                                <strong>Penting:</strong><br>
+                                Mohon rahasiakan informasi ini. Pihak Miftahul Huda tidak pernah meminta kata sandi Anda melalui telepon atau pesan pribadi.
+                            </div>
+                        </div>
+
+                        <!-- Footer -->
+                        <div class="footer">
+                            <!-- Important Links -->
+                            <div class="footer-links">
+                                <a href="https://www.miftahulhuda.co.id">Website Resmi</a> &bull;
+                                <a href="https://www.miftahulhuda.co.id/kontak">Hubungi Kami</a> &bull;
+                                <a href="https://www.miftahulhuda.co.id/privasi">Kebijakan Privasi</a>
+                            </div>
+
+                            <!-- Address & Contact -->
+                            <div class="footer-address">
+                                <strong>Yayasan Miftahul Huda Al-Burhani</strong><br>
+                                Jl. Pesantren No. 10, Desa Cibogohilir<br>
+                                Kec. Plered, Kab. Purwakarta, Jawa Barat 41162<br>
+                                <br>
+                                📞 +62 812-3456-7890 &nbsp;|&nbsp; ✉️ info@miftahulhuda.co.id
+                            </div>
+
+                            <!-- Copyright -->
+                            <div class="footer-copyright">
+                                &copy; 2024 Miftahul Huda Al-Burhani System. All rights reserved.<br>
+                                Pesan ini dikirim secara otomatis oleh sistem, mohon tidak membalas ke alamat email ini.
+                            </div>
+                        </div>
+
+                    </div>
+                </td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
