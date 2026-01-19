@@ -1,0 +1,209 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pemberitahuan Tunggakan</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+            background-color: #f8fafc;
+            margin: 0;
+            padding: 0;
+            color: #334155;
+        }
+        .container {
+            max-width: 600px;
+            margin: 20px auto;
+            background-color: #ffffff;
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            border: 1px solid #e2e8f0;
+        }
+        .header {
+            background-color: #064e3b; /* Emerald 900 */
+            padding: 30px;
+            text-align: center;
+        }
+        .header h1 {
+            color: #ffffff;
+            margin: 0;
+            font-size: 24px;
+            font-weight: 700;
+        }
+        .header p {
+            color: #fbbf24;
+            margin: 5px 0 0;
+            font-size: 14px;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+        }
+        .content {
+            padding: 40px 30px;
+        }
+        .greeting {
+            font-size: 16px;
+            margin-bottom: 20px;
+            line-height: 1.5;
+        }
+        .student-card {
+            background-color: #f0fdf4;
+            border: 1px solid #bbf7d0;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 25px;
+            font-size: 14px;
+        }
+        .student-card strong {
+            color: #166534;
+            display: block;
+            margin-bottom: 4px;
+            text-transform: uppercase;
+            font-size: 10px;
+            letter-spacing: 1px;
+        }
+        .student-card span {
+            display: block;
+            color: #1e293b;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+        .student-card span:last-child {
+            margin-bottom: 0;
+        }
+        .table-container {
+            margin: 25px 0;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        th {
+            background-color: #f1f5f9;
+            text-align: left;
+            padding: 12px 15px;
+            color: #475569;
+            font-weight: 700;
+            text-transform: uppercase;
+            font-size: 12px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        td {
+            padding: 12px 15px;
+            border-bottom: 1px solid #e2e8f0;
+        }
+        tr:last-child td {
+            border-bottom: none;
+        }
+        .total-row td {
+            background-color: #ecfdf5;
+            color: #064e3b;
+            font-weight: 800;
+            border-top: 2px solid #10b981;
+        }
+        .footer {
+            background-color: #1e293b;
+            padding: 20px;
+            text-align: center;
+            color: #94a3b8;
+            font-size: 12px;
+        }
+        .btn {
+            display: inline-block;
+            background-color: #10b981;
+            color: white !important;
+            padding: 12px 25px;
+            border-radius: 6px;
+            text-decoration: none;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+        /* EmailJS specific for dynamic rows */
+        .item-row td { font-family: monospace; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Miftahul Huda</h1>
+            <p>Al-Burhani</p>
+        </div>
+        
+        <div class="content">
+            <p class="greeting">
+                Assalamu'alaikum Warahmatullahi Wabarakatuh,<br><br>
+                Yth. Bapak/Ibu <strong>{{to_name}}</strong>,<br>
+                Berikut adalah rincian kewajiban administrasi untuk:
+            </p>
+
+            <!-- KOTAK INFO SISWA -->
+            <div class="student-card">
+                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                        <td width="50%" valign="top" style="border:none; padding:0;">
+                            <strong>Nama Santri</strong>
+                            <span>{{nama_santri}}</span>
+                        </td>
+                        <td width="50%" valign="top" style="border:none; padding:0;">
+                             <strong>ID / NIS</strong>
+                             <span>{{id_santri}}</span>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" style="border:none; padding:8px 0 0 0;">
+                             <strong>Kelas / Jenjang</strong>
+                             <span>{{kelas_santri}}</span>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+
+            <div class="table-container">
+                <table cellspacing="0" cellpadding="0">
+                    <thead>
+                        <tr>
+                            <th width="5%">No</th>
+                            <th>Keterangan Tagihan</th>
+                            <th style="text-align: right;">Jumlah</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- {{{table_rows}}} digunakan untuk inject HTML dari React -->
+                        {{{table_rows}}}
+                        
+                        <tr class="total-row">
+                            <td colspan="2" style="text-align: right;">TOTAL TUNGGAKAN</td>
+                            <td style="text-align: right;">{{total_tagihan}}</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+
+            <p style="font-size: 13px; color: #64748b; margin-top: 20px;">
+                Mohon segera melakukan pembayaran melalui rekening resmi yayasan atau bagian keuangan pondok.<br>
+                Jika sudah membayar, harap abaikan pesan ini.
+            </p>
+
+            <div style="text-align: center;">
+                <a href="https://wa.me/6281234567890" class="btn">Konfirmasi Pembayaran</a>
+            </div>
+
+            <div style="font-size: 11px; color: #94a3b8; margin-top: 30px; border-top: 1px dashed #e2e8f0; padding-top: 15px;">
+                <strong>Informasi Pengiriman:</strong><br/>
+                Dikirim ke: {{to_email}}
+            </div>
+        </div>
+
+        <div class="footer">
+            <p>&copy; 2024 Keuangan Miftahul Huda Al-Burhani<br>
+            Jl. Pesantren No. 10, Purwakarta, Jawa Barat</p>
+        </div>
+    </div>
+</body>
+</html>

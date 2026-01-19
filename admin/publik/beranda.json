@@ -1,0 +1,86 @@
+
+[
+  {
+    "hero": {
+      "slides": [
+        {
+          "judul_awalan": "Pondok Pesantren",
+          "judul_akhiran": "Miftahul Huda Al-Burhani",
+          "deskripsi": "Didirikan pada tahun 1976 oleh Mama KH. Burhanudin. Mencetak santri berkualitas dalam ilmu agama maupun dunia, berakhlakul karimah, dan mandiri.",
+          "tampilan_background": "https://imgur.com/0UfyvpN.png"
+        },
+        {
+          "judul_awalan": "Kemandirian",
+          "judul_akhiran": "Ekonomi Santri",
+          "deskripsi": "Mengembangkan unit usaha Furniture Custom (Desain Interior), Pertanian, dan Peternakan sebagai bekal kemandirian hidup santri.",
+          "tampilan_background": "https://imgur.com/JNxbeUG.jpg"
+        },
+        {
+          "judul_awalan": "Pendidikan",
+          "judul_akhiran": "Terintegrasi",
+          "deskripsi": "Memadukan Kurikulum Kitab Kuning, Tahfidz Bersanad, dan Pendidikan Formal (SMPIT & MA) dengan wawasan global.",
+          "tampilan_background": "https://imgur.com/s5N0NyZ.jpg"
+        }
+      ]
+    },
+    "statistik": [
+      {
+        "nilai": "1976",
+        "label": "Tahun Berdiri",
+        "warna": "#059669"
+      },
+      {
+        "nilai": "350+",
+        "label": "Jumlah Santri",
+        "warna": "#d97706"
+      },
+      {
+        "nilai": "100+",
+        "label": "Yatim & Dhuafa",
+        "warna": "#2563eb"
+      }
+    ],
+    "fitur": {
+      "item": [
+        { "judul": "Tahfidz Al-Qur'an", "deskripsi": "Program hafalan Qur'an bersanad" },
+        { "judul": "Kajian Kitab Kuning", "deskripsi": "Pendalaman ilmu turats klasik" },
+        { "judul": "Akhlakul Karimah", "deskripsi": "Pembentukan karakter islami" },
+        { "judul": "Bahasa & Dakwah", "deskripsi": "Kompetensi global & public speaking" }
+      ],
+      "gambar": [
+        "https://imgur.com/I1l4ENf.jpeg",
+        "https://imgur.com/55lgXVj.jpeg"
+      ]
+    },
+    "prestasi": [
+      { 
+        "judul": "Karya Furniture Santri", 
+        "sub_judul": "Produk Unggulan", 
+        "deskripsi": "Santri mampu memproduksi furniture custom berkualitas tinggi untuk kebutuhan pasar eksternal.",
+        "gambar": "https://imgur.com/XrwN2r7.jpeg",
+        "aksen": "#d97706"
+      },
+      { 
+        "judul": "Kemandirian Pangan", 
+        "sub_judul": "Agrobisnis", 
+        "deskripsi": "Pengelolaan lahan tani dan ternak untuk kebutuhan pesantren dan pembelajaran wirausaha.",
+        "gambar": "https://imgur.com/ObJFrUf.jpeg",
+        "aksen": "#059669"
+      },
+      { 
+        "judul": "Pendidikan Formal", 
+        "sub_judul": "SMPIT & MA", 
+        "deskripsi": "Menyelenggarakan pendidikan formal yang terakreditasi dan terintegrasi dengan pesantren.",
+        "gambar": "https://imgur.com/3xbjfbN.jpeg",
+        "aksen": "#2563eb"
+      }
+    ],
+    "lokasi": [
+      {
+        "nama_lokasi": "Kampus Utama",
+        "deskripsi": "Kp. Tegal Jati, Desa Cibogohilir, Kec. Plered, Kab. Purwakarta.",
+        "sumber_peta": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3962.619028682855!2d107.385!3d-6.589!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMzUnMjAuNCJTIDEwN8KwMjMnMDYuMCJF!5e0!3m2!1sen!2sid!4v1620000000000!5m2!1sen!2sid"
+      }
+    ]
+  }
+]

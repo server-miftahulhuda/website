@@ -1,0 +1,315 @@
+
+[
+  {
+    "id_transaksi": "TRX-JAN-01",
+    "tanggal": "2025-01-02T08:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-ADM-DAFTAR",
+      "pos": "Administrasi",
+      "kategori": "Biaya Pendaftaran"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Panitia PSB",
+      "nominal": 200000,
+      "catatan": "Lunas Pendaftaran"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-02",
+    "tanggal": "2025-01-02T08:15:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-BG-INFAQ",
+      "pos": "Bangunan",
+      "kategori": "Infaq Bangunan"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "BSI",
+      "rekening": "7193-4937-28",
+      "penerima": "Yayasan",
+      "nominal": 300000,
+      "catatan": "Cicilan 1 Bangunan (50%)"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-03",
+    "tanggal": "2025-01-03T10:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-002",
+      "kategori": "Santri",
+      "nama": "Aisyah Humaira"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-ADM-DAFTAR",
+      "pos": "Administrasi",
+      "kategori": "Biaya Pendaftaran"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "BSI",
+      "rekening": "7193-4937-28",
+      "penerima": "Admin Keuangan",
+      "nominal": 200000,
+      "catatan": "Lunas Pendaftaran"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-04",
+    "tanggal": "2025-01-03T10:30:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-002",
+      "kategori": "Santri",
+      "nama": "Aisyah Humaira"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-BG-INFAQ",
+      "pos": "Bangunan",
+      "kategori": "Infaq Bangunan"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "BSI",
+      "rekening": "7193-4937-28",
+      "penerima": "Yayasan",
+      "nominal": 600000,
+      "catatan": "Lunas Uang Gedung"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-05",
+    "tanggal": "2025-01-05T09:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-OPS-SYAH",
+      "pos": "Operasional",
+      "kategori": "Infaq Syahriah"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Bendahara",
+      "nominal": 100000,
+      "catatan": "Syahriah Januari 2025"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-06",
+    "tanggal": "2025-01-05T09:05:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-MKN-UANG",
+      "pos": "Makan",
+      "kategori": "Uang Makan"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Bendahara",
+      "nominal": 400000,
+      "catatan": "Makan Januari 2025"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-07",
+    "tanggal": "2025-01-06T14:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-002",
+      "kategori": "Santri",
+      "nama": "Aisyah Humaira"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-OPS-SYAH",
+      "pos": "Operasional",
+      "kategori": "Infaq Syahriah"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "GoPay",
+      "rekening": "0812-3456-7890",
+      "penerima": "Admin Keuangan",
+      "nominal": 100000,
+      "catatan": "Syahriah Januari 2025"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-08",
+    "tanggal": "2025-01-06T14:10:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-002",
+      "kategori": "Santri",
+      "nama": "Aisyah Humaira"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-MKN-UANG",
+      "pos": "Makan",
+      "kategori": "Uang Makan"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "GoPay",
+      "rekening": "0812-3456-7890",
+      "penerima": "Admin Keuangan",
+      "nominal": 200000,
+      "catatan": "Cicilan Makan Januari"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-09",
+    "tanggal": "2025-01-08T11:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-PHBI-MAIN",
+      "pos": "PHBI",
+      "kategori": "PHBI"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Panitia PHBI",
+      "nominal": 100000,
+      "catatan": "Lunas Iuran PHBI"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-10",
+    "tanggal": "2025-01-10T16:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-002",
+      "kategori": "Santri",
+      "nama": "Aisyah Humaira"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-PHBI-MAIN",
+      "pos": "PHBI",
+      "kategori": "PHBI"
+    },
+    "pembayaran": {
+      "metode": "Transfer",
+      "bank": "BSI",
+      "rekening": "7193-4937-28",
+      "penerima": "Yayasan",
+      "nominal": 50000,
+      "catatan": "Cicil PHBI"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-11",
+    "tanggal": "2025-01-12T08:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-ADM-KTS",
+      "pos": "Administrasi",
+      "kategori": "Kartu Tanda Santri"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Tata Usaha",
+      "nominal": 50000,
+      "catatan": "Pembuatan KTS"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-12",
+    "tanggal": "2025-01-12T09:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-ADM-KOP",
+      "pos": "Administrasi",
+      "kategori": "Pendaftaran Kopontren"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Koperasi",
+      "nominal": 100000,
+      "catatan": "Simpanan Pokok Anggota"
+    }
+  },
+  {
+    "id_transaksi": "TRX-JAN-13",
+    "tanggal": "2025-01-14T13:00:00Z",
+    "jenis": "masuk",
+    "status": "Selesai",
+    "pihak": {
+      "id_santri": "STR-2025-001",
+      "kategori": "Santri",
+      "nama": "Muhammad Fatih Al-Kahfi"
+    },
+    "peruntukan": {
+      "id_biaya": "BY-JAJAN-DEP",
+      "pos": "Jajan",
+      "kategori": "Deposit Uang Saku"
+    },
+    "pembayaran": {
+      "metode": "Tunai",
+      "bank": "-",
+      "rekening": "-",
+      "penerima": "Kantin",
+      "nominal": 100000,
+      "catatan": "Topup Saldo Jajan"
+    }
+  }
+]

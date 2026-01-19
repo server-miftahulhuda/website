@@ -1,0 +1,26 @@
+
+{
+  "name": "Miftahul Huda SuperApp",
+  "short_name": "Al-Burhani",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#022c22",
+  "theme_color": "#022c22",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "description": "Sistem Informasi Manajemen Terpadu Pondok Pesantren Miftahul Huda Al-Burhani."
+}

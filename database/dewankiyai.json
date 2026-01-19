@@ -1,0 +1,50 @@
+[
+  {
+    "id": "KYAI-001",
+    "nip": "01.001.YPP",
+    "nama": "KH. Darul Falah",
+    "jabatan": "Pimpinan Pondok",
+    "status": "Tetap Yayasan",
+    "santri": []
+  },
+  {
+    "id": "UST-001",
+    "nip": "02.005.YPP",
+    "nama": "Ust. Jajam M.J.",
+    "jabatan": "Sekretaris Pondok",
+    "status": "Tetap Yayasan",
+    "santri": []
+  },
+  {
+    "id": "UST-002",
+    "nip": "02.006.YPP",
+    "nama": "Ust. Hilman Aziz",
+    "jabatan": "Bendahara & Kaur Kopontren",
+    "status": "Tetap Yayasan",
+    "santri": []
+  },
+  {
+    "id": "UST-003",
+    "nip": "02.007.YPP",
+    "nama": "Ust. Ghozali",
+    "jabatan": "Kaur Pendidikan (Kurikulum)",
+    "status": "Tetap Yayasan",
+    "santri": []
+  },
+  {
+    "id": "UST-004",
+    "nip": "02.008.YPP",
+    "nama": "Ust. Andi M.",
+    "jabatan": "Kaur Keamanan",
+    "status": "Pengabdian",
+    "santri": []
+  },
+  {
+    "id": "UST-005",
+    "nip": "02.009.YPP",
+    "nama": "Ust. Muhibin",
+    "jabatan": "Kaur Pembangunan",
+    "status": "Tetap Yayasan",
+    "santri": []
+  }
+]

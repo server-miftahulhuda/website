@@ -1,0 +1,55 @@
+
+[
+  {
+    "nama": "JNE",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/New_Logo_JNE.png/100px-New_Logo_JNE.png",
+    "layanan": [
+      { "layanan": "Reguler (REG)", "estimasi_tercepat": 2, "estimasi_terlambat": 3 },
+      { "layanan": "Yakin Esok Sampai (YES)", "estimasi_tercepat": 1, "estimasi_terlambat": 1 },
+      { "layanan": "JNE Trucking (Cargo)", "estimasi_tercepat": 5, "estimasi_terlambat": 7 }
+    ]
+  },
+  {
+    "nama": "J&T Express",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/J%26T_Express_logo.svg/100px-J%26T_Express_logo.svg.png",
+    "layanan": [
+      { "layanan": "EZ (Reguler)", "estimasi_tercepat": 2, "estimasi_terlambat": 3 },
+      { "layanan": "Economy", "estimasi_tercepat": 5, "estimasi_terlambat": 7 }
+    ]
+  },
+  {
+    "nama": "SiCepat",
+    "logo": "https://www.barantum.com/assets/img/successstory/casestudy/sicepat/sicepat.png",
+    "layanan": [
+      { "layanan": "SiCepat Reg", "estimasi_tercepat": 2, "estimasi_terlambat": 3 },
+      { "layanan": "Besok Sampai Tujuan", "estimasi_tercepat": 1, "estimasi_terlambat": 1 },
+      { "layanan": "HALU (Ekonomis)", "estimasi_tercepat": 3, "estimasi_terlambat": 5 }
+    ]
+  },
+  {
+    "nama": "Anteraja",
+    "logo": "https://webstoriess.enkosa.com/wp-content/uploads/2024/01/Download-Logo-Anteraja-PNG.png",
+    "layanan": [
+      { "layanan": "Reguler", "estimasi_tercepat": 2, "estimasi_terlambat": 4 },
+      { "layanan": "Next Day", "estimasi_tercepat": 1, "estimasi_terlambat": 1 },
+      { "layanan": "Economy", "estimasi_tercepat": 4, "estimasi_terlambat": 6 }
+    ]
+  },
+  {
+    "nama": "TIKI",
+    "logo": "https://sindoshipping.com/wp-content/uploads/2016/06/logo-tiki.png",
+    "layanan": [
+      { "layanan": "Reguler", "estimasi_tercepat": 3, "estimasi_terlambat": 4 },
+      { "layanan": "Over Night Service", "estimasi_tercepat": 1, "estimasi_terlambat": 1 },
+      { "layanan": "Economy", "estimasi_tercepat": 5, "estimasi_terlambat": 7 }
+    ]
+  },
+  {
+    "nama": "POS Indonesia",
+    "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Pos_Indonesia_logo.svg/100px-Pos_Indonesia_logo.svg.png",
+    "layanan": [
+      { "layanan": "Pos Kilat Khusus", "estimasi_tercepat": 3, "estimasi_terlambat": 5 },
+      { "layanan": "Pos Express", "estimasi_tercepat": 1, "estimasi_terlambat": 2 }
+    ]
+  }
+]

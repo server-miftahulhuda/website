@@ -1,0 +1,91 @@
+
+[
+  {
+    "id_produk": "PRD-RAPOR",
+    "nama": "Buku Rapor Santri",
+    "kategori": "Perlengkapan",
+    "supplier": "Percetakan Amanah",
+    "harga_beli": 60000,
+    "harga_jual": 80000,
+    "gambar": [
+      "https://imgur.com/PgthCZE.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-JAS-ALM",
+    "nama": "Jas Almamater",
+    "kategori": "Seragam",
+    "supplier": "Konveksi Utama",
+    "harga_beli": 200000,
+    "harga_jual": 250000,
+    "gambar": [
+      "https://imgur.com/esBkCkJ.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-SRG-001",
+    "nama": "Seragam Batik Yayasan (Putra)",
+    "kategori": "Seragam",
+    "supplier": "Konveksi Utama",
+    "harga_beli": 100000,
+    "harga_jual": 135000,
+    "gambar": [
+      "https://i.imgur.com/xf68bNb.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-FSL-L2",
+    "nama": "Lemari 2 Pintu",
+    "kategori": "Fasilitas Asrama",
+    "supplier": "Mebel Jepara",
+    "harga_beli": 550000,
+    "harga_jual": 700000,
+    "gambar": [
+      "https://imgur.com/A8dLVcf.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-FSL-L1",
+    "nama": "Lemari 1 Pintu",
+    "kategori": "Fasilitas Asrama",
+    "supplier": "Mebel Jepara",
+    "harga_beli": 450000,
+    "harga_jual": 550000,
+    "gambar": [
+      "https://imgur.com/6VslqMF.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-FSL-KSR",
+    "nama": "Kasur Busa Super",
+    "kategori": "Fasilitas Asrama",
+    "supplier": "Toko Busa",
+    "harga_beli": 280000,
+    "harga_jual": 350000,
+    "gambar": [
+      "https://imgur.com/4cvNJze.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-KTB-001",
+    "nama": "Paket Kitab Kuning (Awal)",
+    "kategori": "Perlengkapan",
+    "supplier": "Pustaka Ilmu",
+    "harga_beli": 120000,
+    "harga_jual": 150000,
+    "gambar": [
+      "https://imgur.com/OiVQ6M4.jpeg"
+    ]
+  },
+  {
+    "id_produk": "PRD-MKN-PTR",
+    "nama": "Mukena Seragam (Putri)",
+    "kategori": "Seragam",
+    "supplier": "Konveksi Utama",
+    "harga_beli": 160000,
+    "harga_jual": 200000,
+    "gambar": [
+      "https://imgur.com/oEQ53km.jpeg"
+    ]
+  }
+]

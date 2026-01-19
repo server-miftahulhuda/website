@@ -1,0 +1,211 @@
+
+[
+  {
+    "id_transaksi": "TRX-MODAL-BSI",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-01",
+      "jenis": "Pemasukan",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Bendahara Koperasi",
+      "keterangan": "Penyertaan Modal Awal (Via Bank)",
+      "total_nominal": 500000000,
+      "status": "Selesai"
+    },
+    "produk": [],
+    "data_pemesan": {
+      "kategori": "Internal",
+      "id_pembeli": "YAYASAN",
+      "nama": "Yayasan Al-Burhani",
+      "email": "-",
+      "nomor": "-"
+    },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "-" },
+    "metode_pengiriman": { "kurir": "-", "layanan": "-", "ongkir": 0, "estimasi": "-", "no_resi": "-", "status_pengiriman": "-" }
+  },
+  {
+    "id_transaksi": "TRX-MODAL-TUNAI",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-01",
+      "jenis": "Pemasukan",
+      "metode": "Tunai",
+      "penyedia": "-",
+      "rekening": "-",
+      "penerima": "Kasir Koperasi",
+      "keterangan": "Penyertaan Modal Awal (Tunai/Kas)",
+      "total_nominal": 500000000,
+      "status": "Selesai"
+    },
+    "produk": [],
+    "data_pemesan": {
+      "kategori": "Internal",
+      "id_pembeli": "YAYASAN",
+      "nama": "Yayasan Al-Burhani",
+      "email": "-",
+      "nomor": "-"
+    },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "-" },
+    "metode_pengiriman": { "kurir": "-", "layanan": "-", "ongkir": 0, "estimasi": "-", "no_resi": "-", "status_pengiriman": "-" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-RAPOR",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-02",
+      "jenis": "Pengeluaran",
+      "metode": "Tunai",
+      "penyedia": "-",
+      "rekening": "-",
+      "penerima": "Percetakan Amanah",
+      "keterangan": "Belanja Stok: Buku Rapor Santri",
+      "total_nominal": 18000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-RAPOR", "kategori": "Perlengkapan", "nama": "Buku Rapor Santri", "qty": 300, "harga_beli": 60000, "harga_jual": 80000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-01", "nama": "Percetakan Amanah", "email": "-", "nomor": "0811223344" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Koperasi" },
+    "metode_pengiriman": { "kurir": "Internal", "layanan": "Diantar Supplier", "ongkir": 0, "estimasi": "1 Hari", "no_resi": "-", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-JAS",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-03",
+      "jenis": "Pengeluaran",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Konveksi Utama",
+      "keterangan": "Belanja Stok: Jas Almamater",
+      "total_nominal": 60000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-JAS-ALM", "kategori": "Seragam", "nama": "Jas Almamater", "qty": 300, "harga_beli": 200000, "harga_jual": 250000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-02", "nama": "Konveksi Utama", "email": "-", "nomor": "0812345678" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Koperasi" },
+    "metode_pengiriman": { "kurir": "Kargo", "layanan": "Trucking", "ongkir": 150000, "estimasi": "3 Hari", "no_resi": "TRUCK-01", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-SRG",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-03",
+      "jenis": "Pengeluaran",
+      "metode": "Tunai",
+      "penyedia": "-",
+      "rekening": "-",
+      "penerima": "Konveksi Utama",
+      "keterangan": "Belanja Stok: Seragam Batik",
+      "total_nominal": 30000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-SRG-001", "kategori": "Seragam", "nama": "Seragam Batik Yayasan (Putra)", "qty": 300, "harga_beli": 100000, "harga_jual": 135000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-02", "nama": "Konveksi Utama", "email": "-", "nomor": "0812345678" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Koperasi" },
+    "metode_pengiriman": { "kurir": "Kargo", "layanan": "Trucking", "ongkir": 100000, "estimasi": "3 Hari", "no_resi": "TRUCK-02", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-L2",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-05",
+      "jenis": "Pengeluaran",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Mebel Jepara",
+      "keterangan": "Belanja Stok: Lemari 2 Pintu",
+      "total_nominal": 165000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-FSL-L2", "kategori": "Fasilitas Asrama", "nama": "Lemari 2 Pintu", "qty": 300, "harga_beli": 550000, "harga_jual": 700000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-03", "nama": "Mebel Jepara", "email": "-", "nomor": "0856789012" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Besar" },
+    "metode_pengiriman": { "kurir": "Ekspedisi", "layanan": "Kontainer", "ongkir": 2500000, "estimasi": "7 Hari", "no_resi": "CONT-001", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-L1",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-05",
+      "jenis": "Pengeluaran",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Mebel Jepara",
+      "keterangan": "Belanja Stok: Lemari 1 Pintu",
+      "total_nominal": 135000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-FSL-L1", "kategori": "Fasilitas Asrama", "nama": "Lemari 1 Pintu", "qty": 300, "harga_beli": 450000, "harga_jual": 550000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-03", "nama": "Mebel Jepara", "email": "-", "nomor": "0856789012" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Besar" },
+    "metode_pengiriman": { "kurir": "Ekspedisi", "layanan": "Kontainer", "ongkir": 0, "estimasi": "7 Hari", "no_resi": "CONT-001", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-KSR",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-06",
+      "jenis": "Pengeluaran",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Toko Busa",
+      "keterangan": "Belanja Stok: Kasur Busa",
+      "total_nominal": 84000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-FSL-KSR", "kategori": "Fasilitas Asrama", "nama": "Kasur Busa Super", "qty": 300, "harga_beli": 280000, "harga_jual": 350000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-04", "nama": "Toko Busa Sejahtera", "email": "-", "nomor": "0811122233" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Koperasi" },
+    "metode_pengiriman": { "kurir": "Lalamove", "layanan": "Van", "ongkir": 300000, "estimasi": "1 Hari", "no_resi": "-", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-KTB",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-07",
+      "jenis": "Pengeluaran",
+      "metode": "Tunai",
+      "penyedia": "-",
+      "rekening": "-",
+      "penerima": "Pustaka Ilmu",
+      "keterangan": "Belanja Stok: Kitab Kuning",
+      "total_nominal": 36000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-KTB-001", "kategori": "Perlengkapan", "nama": "Paket Kitab Kuning (Awal)", "qty": 300, "harga_beli": 120000, "harga_jual": 150000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-05", "nama": "Pustaka Ilmu", "email": "-", "nomor": "0899887766" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Toko Koperasi" },
+    "metode_pengiriman": { "kurir": "Internal", "layanan": "Pickup", "ongkir": 0, "estimasi": "Langsung", "no_resi": "-", "status_pengiriman": "Diterima" }
+  },
+  {
+    "id_transaksi": "TRX-BUY-MKN",
+    "jenis_transaksi": {
+      "tanggal": "2024-01-08",
+      "jenis": "Pengeluaran",
+      "metode": "Transfer",
+      "penyedia": "BSI",
+      "rekening": "7193493728",
+      "penerima": "Konveksi Utama",
+      "keterangan": "Belanja Stok: Mukena",
+      "total_nominal": 48000000,
+      "status": "Selesai"
+    },
+    "produk": [
+      { "id_produk": "PRD-MKN-PTR", "kategori": "Seragam", "nama": "Mukena Seragam (Putri)", "qty": 300, "harga_beli": 160000, "harga_jual": 200000 }
+    ],
+    "data_pemesan": { "kategori": "Supplier", "id_pembeli": "SUP-02", "nama": "Konveksi Utama", "email": "-", "nomor": "0812345678" },
+    "alamat_pengiriman": { "provinsi": "-", "kota_kabupaten": "-", "kecamatan": "-", "desa_kelurahan": "-", "rt": "-", "rw": "-", "jalan_patokan": "Gudang Koperasi" },
+    "metode_pengiriman": { "kurir": "JNE", "layanan": "JTR", "ongkir": 100000, "estimasi": "3 Hari", "no_resi": "JTR-MUKENA", "status_pengiriman": "Diterima" }
+  }
+]

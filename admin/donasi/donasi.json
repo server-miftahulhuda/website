@@ -1,0 +1,101 @@
+
+[
+  {
+    "id_donasi": "umum",
+    "kategori": "Operasional",
+    "judul": "Infaq Umum Pesantren",
+    "pos": "Sedekah Umum",
+    "gambar": [
+      "https://placehold.co/800x600/064e3b/ffffff?text=Infaq+Umum"
+    ],
+    "target": {
+      "waktu": "-",
+      "nominal": 0
+    },
+    "deskripsi": "Donasi rutin untuk kebutuhan listrik, air, kebersihan, dan biaya operasional harian pesantren."
+  },
+  {
+    "id_donasi": "CMP-ASRAMA-PI",
+    "kategori": "Pembangunan",
+    "judul": "Pembangunan Asrama Santri Putri (Lantai 2)",
+    "pos": "Wakaf Pembangunan",
+    "gambar": [
+      "https://placehold.co/800x600/065f46/ffffff?text=Asrama+Putri+Lt.2"
+    ],
+    "target": {
+      "waktu": "2026-12-31",
+      "nominal": 500000000
+    },
+    "deskripsi": "Perluasan asrama santri putri menjadi 2 lantai untuk menampung kapasitas santri yang terus bertambah."
+  },
+  {
+    "id_donasi": "CMP-AULA",
+    "kategori": "Pembangunan",
+    "judul": "Pembangunan Aula Utama",
+    "pos": "Wakaf Pembangunan",
+    "gambar": [
+      "https://placehold.co/800x600/1e3a8a/ffffff?text=Aula+Utama"
+    ],
+    "target": {
+      "waktu": "2027-06-30",
+      "nominal": 1000000000
+    },
+    "deskripsi": "Pembangunan gedung serbaguna sebagai pusat kegiatan santri, pertemuan wali, dan kajian akbar."
+  },
+  {
+    "id_donasi": "CMP-WC-PA",
+    "kategori": "Sarana & Prasarana",
+    "judul": "Pembangunan WC Santri Putra",
+    "pos": "Wakaf Sarpras",
+    "gambar": [
+      "https://placehold.co/800x600/0f766e/ffffff?text=Sanitasi+Putra"
+    ],
+    "target": {
+      "waktu": "2025-12-31",
+      "nominal": 300000000
+    },
+    "deskripsi": "Peningkatan fasilitas sanitasi dan MCK untuk menjaga kesehatan dan kebersihan lingkungan asrama putra."
+  },
+  {
+    "id_donasi": "PRG-OTA",
+    "kategori": "Beasiswa",
+    "judul": "Program Orang Tua Asuh",
+    "pos": "Zakat Pendidikan",
+    "gambar": [
+      "https://placehold.co/800x600/d97706/ffffff?text=Orang+Tua+Asuh"
+    ],
+    "target": {
+      "waktu": "-",
+      "nominal": 0
+    },
+    "deskripsi": "Menanggung biaya pendidikan santri yatim atau dhuafa agar mereka dapat terus menuntut ilmu."
+  },
+  {
+    "id_donasi": "PRG-YATIM",
+    "kategori": "Sosial Kemanusiaan",
+    "judul": "Infaq Fakir Miskin & Yatim Piatu",
+    "pos": "Sedekah Sosial",
+    "gambar": [
+      "https://placehold.co/800x600/be123c/ffffff?text=Santunan+Yatim"
+    ],
+    "target": {
+      "waktu": "-",
+      "nominal": 0
+    },
+    "deskripsi": "Dana santunan untuk kebutuhan hidup sehari-hari fakir miskin dan anak yatim piatu di lingkungan pesantren."
+  },
+  {
+    "id_donasi": "PRG-PRESTASI",
+    "kategori": "Beasiswa",
+    "judul": "Program Santri Berprestasi",
+    "pos": "Apresiasi Pendidikan",
+    "gambar": [
+      "https://placehold.co/800x600/4f46e5/ffffff?text=Santri+Berprestasi"
+    ],
+    "target": {
+      "waktu": "-",
+      "nominal": 0
+    },
+    "deskripsi": "Pemberian penghargaan dan beasiswa lanjut studi bagi santri yang memiliki hafalan Qur'an mutqin atau prestasi kitab kuning."
+  }
+]

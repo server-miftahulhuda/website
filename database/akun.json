@@ -1,0 +1,47 @@
+[
+  {
+    "verifikasi_akun": {
+      "id_akun": "WALI-001",
+      "id_santri": "STR-2024-001"
+    },
+    "data_akun": {
+      "peran": "wali",
+      "nama": "H. Rahmat Hidayat",
+      "status": "terverifikasi",
+      "email": "wali1@alburhani.ponpes.id",
+      "telepon": "081234567890",
+      "hash_kata_sandi": "123456",
+      "dibuat": "2024-07-15T00:00:00.000Z"
+    }
+  },
+  {
+    "verifikasi_akun": {
+      "id_akun": "WALI-002",
+      "id_santri": "STR-2024-002"
+    },
+    "data_akun": {
+      "peran": "wali",
+      "nama": "Budi Santoso",
+      "status": "terverifikasi",
+      "email": "wali2@alburhani.ponpes.id",
+      "telepon": "081345678901",
+      "hash_kata_sandi": "123456",
+      "dibuat": "2024-07-16T00:00:00.000Z"
+    }
+  },
+  {
+    "verifikasi_akun": {
+      "id_akun": "ADM-001",
+      "id_santri": "-"
+    },
+    "data_akun": {
+      "peran": "admin_sistem",
+      "nama": "Super Admin",
+      "status": "terverifikasi",
+      "email": "admin@alburhani.ponpes.id",
+      "telepon": "081234567890",
+      "hash_kata_sandi": "admin123",
+      "dibuat": "2024-01-01T00:00:00.000Z"
+    }
+  }
+]

@@ -1,0 +1,21 @@
+
+[
+  {
+    "id_transaksi": "TRX-DON-001",
+    "tanggal": "2024-10-15T08:30:00Z",
+    "jenis": "masuk",
+    "status": "Verified",
+    "pihak": { "id": "DNR-001", "nama": "Hamba Allah" },
+    "peruntukan": { "pos": "DONASI", "kategori": "Wakaf Produktif", "id_donasi": "CMP-WORKSHOP-01" },
+    "pembayaran": { "metode": "Transfer", "sistem": "Bank", "penyedia": "BSI", "no_rek": "7193...", "penerima": "Yayasan", "nominal": 500000, "catatan": "Untuk alat workshop" }
+  },
+  {
+    "id_transaksi": "TRX-DON-002",
+    "tanggal": "2024-10-20T10:00:00Z",
+    "jenis": "masuk",
+    "status": "Verified",
+    "pihak": { "id": "DNR-002", "nama": "Bapak Rizki" },
+    "peruntukan": { "pos": "Bangunan", "kategori": "Uang Pangkal", "id_donasi": "CMP-ASRAMA-02" },
+    "pembayaran": { "metode": "QRIS", "sistem": "QRIS", "penyedia": "-", "no_rek": "-", "penerima": "Yayasan", "nominal": 1000000, "catatan": "Semen 10 Sak" }
+  }
+]

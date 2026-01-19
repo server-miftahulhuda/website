@@ -1,0 +1,59 @@
+
+[
+  {
+    "id_biaya": "BY-BG-INFAQ",
+    "pos": "Bangunan",
+    "jenis": "Infaq Bangunan",
+    "periode": "sekali",
+    "nominal": 600000
+  },
+  {
+    "id_biaya": "BY-OPS-SYAH",
+    "pos": "Operasional",
+    "jenis": "Infaq Syahriah",
+    "periode": "bulanan",
+    "nominal": 100000
+  },
+  {
+    "id_biaya": "BY-MKN-UANG",
+    "pos": "Makan",
+    "jenis": "Uang Makan",
+    "periode": "bulanan",
+    "nominal": 400000
+  },
+  {
+    "id_biaya": "BY-PHBI-MAIN",
+    "pos": "PHBI",
+    "jenis": "PHBI",
+    "periode": "tahunan",
+    "nominal": 100000
+  },
+  {
+    "id_biaya": "BY-ADM-DAFTAR",
+    "pos": "Administrasi",
+    "jenis": "Biaya Pendaftaran",
+    "periode": "sekali",
+    "nominal": 200000
+  },
+  {
+    "id_biaya": "BY-ADM-KTS",
+    "pos": "Administrasi",
+    "jenis": "Kartu Tanda Santri",
+    "periode": "sekali",
+    "nominal": 50000
+  },
+  {
+    "id_biaya": "BY-ADM-KOP",
+    "pos": "Administrasi",
+    "jenis": "Pendaftaran Kopontren",
+    "periode": "sekali",
+    "nominal": 100000
+  },
+  {
+    "id_biaya": "BY-JAJAN-DEP",
+    "pos": "Jajan",
+    "jenis": "Deposit Uang Saku",
+    "periode": "sekali",
+    "nominal": 0
+  }
+]

@@ -1,0 +1,33 @@
+
+[
+  {
+    "nama": "Miftahul Huda",
+    "sub_nama": "Al-Burhani",
+    "logo": "https://imgur.com/RCZ1rak.png",
+    "deskripsi_singkat": "Pesantren berbasis Salafiyah Modern yang mengintegrasikan ilmu agama (Kitab Kuning & Tahfidz) dengan kemandirian ekonomi (Furniture & Pertanian).",
+    "alamat": "Kp. Tegal Jati, Desa Cibogohilir, Kec. Plered, Kab. Purwakarta, Jawa Barat 41162",
+    "copyright": "© 2024 Yayasan Miftahul Huda Al-Burhani. All rights reserved.",
+    "whatsapp": [
+{ "bagian": "pendaftaran", "nama": "Admin Putra 1", "nomor": "+6283865670467" },
+{ "bagian": "pendaftaran", "nama": "Admin Putra 2", "nomor": "+6283140933608" },
+{ "bagian": "pendaftaran", "nama": "Admin Putri 1", "nomor": "+6283873126510" },
+{ "bagian": "pendaftaran", "nama": "Admin Putri 2", "nomor": "+6283181230958" },
+{ "bagian": "pembayaran", "nama": "", "nomor": "+6285314205258" }
+    ],
+    "email": [
+      { "bagian": "", "email": "" },
+      { "bagian": "", "email": "" },
+      { "bagian": "", "email": "" }
+    ],
+    "sosial_media": {
+      "youtube": "",
+      "instagram": "",
+      "tiktok": "",
+      "facebook": "",
+      "twitter": "",
+      "telegram": "",
+      "linkedin": "",
+      "website": ""
+    }
+  }
+]

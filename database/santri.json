@@ -1,0 +1,275 @@
+
+[
+  {
+    "verifikasi_santri": {
+      "id_santri": "STR-2025-001",
+      "status": "Aktif",
+      "bergabung": "2025-01-02"
+    },
+    "data_santri": {
+      "nik": "3273012345670001",
+      "nama_lengkap": "Muhammad Fatih Al-Kahfi",
+      "nama_panggilan": "Fatih",
+      "tempat_lahir": "Bandung",
+      "tanggal_lahir": "2012-05-20",
+      "jenis_kelamin": "L",
+      "golongan_darah": "O",
+      "hobi": "Robotik",
+      "anak_ke": 1,
+      "foto_profil": "https://placehold.co/400x400/064e3b/ffffff?text=Fatih"
+    },
+    "data_akademik": {
+      "nisn": "0012345678",
+      "jenjang": "MTs",
+      "kelas": "7",
+      "jurusan": "-",
+      "tahun_masuk": "2025",
+      "tahun_lulus": "2028",
+      "asal_sekolah": "SDIT Al-Fitrah",
+      "program_pesantren": "Tahfidz"
+    },
+    "alamat_domisili": {
+      "jalan": "Jl. A.H. Nasution Gg. Kujang No. 12",
+      "rt": "02",
+      "rw": "05",
+      "kode_pos": "40614",
+      "desa": "Cipadung",
+      "kecamatan": "Cibiru",
+      "kabupaten": "Kota Bandung",
+      "provinsi": "Jawa Barat"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "H. Rahmat Hidayat",
+        "nik": "3273010101800001",
+        "pekerjaan": "Wiraswasta",
+        "penghasilan": 7500000,
+        "no_wa": "081234567890",
+        "email": "alvarezastudio@gmail.com"
+      },
+      "ibu": {
+        "nama": "Hj. Siti Aminah",
+        "nik": "3273010202850002",
+        "pekerjaan": "Ibu Rumah Tangga",
+        "penghasilan": 0,
+        "no_wa": "081298765432",
+        "email": "-"
+      },
+      "wali": {
+        "nik": "",
+        "nama": "",
+        "hubungan": "",
+        "pekerjaan": "",
+        "penghasilan": 0,
+        "no_wa": "",
+        "email": ""
+      }
+    },
+    "dokumen_arsip": {
+      "kk": "https://drive.google.com/file/d/dummy-kk",
+      "ktp_ortu": "https://drive.google.com/file/d/dummy-ktp",
+      "akta": "https://drive.google.com/file/d/dummy-akta",
+      "ijazah": "https://drive.google.com/file/d/dummy-ijazah",
+      "kartu_santri": "https://drive.google.com/file/d/dummy-kts",
+      "pas_foto": "https://drive.google.com/file/d/dummy-foto"
+    }
+  },
+  {
+    "verifikasi_santri": {
+      "id_santri": "STR-2025-002",
+      "status": "Aktif",
+      "bergabung": "2025-01-03"
+    },
+    "data_santri": {
+      "nik": "3204012345670002",
+      "nama_lengkap": "Aisyah Humaira",
+      "nama_panggilan": "Ais",
+      "tempat_lahir": "Jakarta",
+      "tanggal_lahir": "2012-08-17",
+      "jenis_kelamin": "P",
+      "golongan_darah": "A",
+      "hobi": "Menulis",
+      "anak_ke": 2,
+      "foto_profil": "https://placehold.co/400x400/be185d/ffffff?text=Aisyah"
+    },
+    "data_akademik": {
+      "nisn": "0012345679",
+      "jenjang": "MTs",
+      "kelas": "7",
+      "jurusan": "-",
+      "tahun_masuk": "2025",
+      "tahun_lulus": "2028",
+      "asal_sekolah": "SDN Tebet 01",
+      "program_pesantren": "Kitab Kuning"
+    },
+    "alamat_domisili": {
+      "jalan": "Jl. Tebet Raya No. 45",
+      "rt": "05",
+      "rw": "01",
+      "kode_pos": "12820",
+      "desa": "Tebet Timur",
+      "kecamatan": "Tebet",
+      "kabupaten": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "Ir. Budi Santoso",
+        "nik": "3174010101780005",
+        "pekerjaan": "Karyawan BUMN",
+        "penghasilan": 12000000,
+        "no_wa": "081345678901",
+        "email": "budi.s@bumn.co.id"
+      },
+      "ibu": {
+        "nama": "Dr. Rina Wati",
+        "nik": "3174020202820006",
+        "pekerjaan": "Dokter",
+        "penghasilan": 15000000,
+        "no_wa": "081398765432",
+        "email": "rina.dr@hospital.com"
+      },
+      "wali": {
+        "nik": "3174050505500001",
+        "nama": "Slamet Rahardjo",
+        "hubungan": "Kakek",
+        "pekerjaan": "Pensiunan",
+        "penghasilan": 3000000,
+        "no_wa": "08111222333",
+        "email": "-"
+      }
+    },
+    "dokumen_arsip": {
+      "kk": "https://drive.google.com/file/d/dummy-kk",
+      "ktp_ortu": "",
+      "akta": "https://drive.google.com/file/d/dummy-akta",
+      "ijazah": "",
+      "kartu_santri": "",
+      "pas_foto": ""
+    }
+  },
+  {
+    "verifikasi_santri": {
+      "id_santri": "REG-2025-001",
+      "status": "Menunggu",
+      "bergabung": "2025-01-05"
+    },
+    "data_santri": {
+      "nik": "3201010101010001",
+      "nama_lengkap": "Budi Setiawan",
+      "nama_panggilan": "Budi",
+      "tempat_lahir": "Bogor",
+      "tanggal_lahir": "2013-01-01",
+      "jenis_kelamin": "L",
+      "golongan_darah": "B",
+      "hobi": "Sepak Bola",
+      "anak_ke": 1,
+      "foto_profil": ""
+    },
+    "data_akademik": {
+      "nisn": "",
+      "jenjang": "MTs",
+      "kelas": "",
+      "jurusan": "",
+      "tahun_masuk": "2025",
+      "tahun_lulus": "2028",
+      "asal_sekolah": "SDN 1 Bogor",
+      "program_pesantren": "Tahfidz"
+    },
+    "alamat_domisili": {
+      "jalan": "Jl. Raya Bogor",
+      "rt": "01",
+      "rw": "01",
+      "kode_pos": "16000",
+      "desa": "Cibinong",
+      "kecamatan": "Cibinong",
+      "kabupaten": "Bogor",
+      "provinsi": "Jawa Barat"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "Agus Setiawan",
+        "no_wa": "081234567001"
+      },
+      "ibu": {
+        "nama": "Siti Aminah",
+        "no_wa": "081234567001"
+      }
+    }
+  },
+  {
+    "verifikasi_santri": {
+      "id_santri": "REG-2026-7951",
+      "status": "Menunggu",
+      "bergabung": "2025-01-06"
+    },
+    "data_santri": {
+      "nik": "3214140103130001",
+      "nama_lengkap": "Ilham",
+      "nama_panggilan": "Ilham",
+      "tempat_lahir": "Purwakarta",
+      "tanggal_lahir": "2013-03-01",
+      "jenis_kelamin": "L",
+      "golongan_darah": "",
+      "hobi": "",
+      "anak_ke": 0,
+      "foto_profil": ""
+    },
+    "data_akademik": {
+      "nisn": "",
+      "jenjang": "SMP",
+      "kelas": "",
+      "jurusan": "",
+      "tahun_masuk": "2026",
+      "tahun_lulus": "2029",
+      "asal_sekolah": "Sdn2cirangkong",
+      "program_pesantren": "Kitab"
+    },
+    "alamat_domisili": {
+      "jalan": "Jln Cilandak cirangkong, gang keramat",
+      "rt": "02",
+      "rw": "01",
+      "kode_pos": "41181",
+      "desa": "CIRANGKONG",
+      "kecamatan": "CIBATU",
+      "kabupaten": "KABUPATEN PURWAKARTA",
+      "provinsi": "JAWA BARAT"
+    },
+    "data_keluarga": {
+      "ayah": {
+        "nama": "Ardi",
+        "nik": "",
+        "pekerjaan": "Tani",
+        "penghasilan": 0,
+        "no_wa": "83896918243",
+        "email": ""
+      },
+      "ibu": {
+        "nama": "Otih",
+        "nik": "",
+        "pekerjaan": "Ibu rumah tangga",
+        "penghasilan": 0,
+        "no_wa": "83896918243",
+        "email": "babahilhambabah@gmail.com"
+      },
+      "wali": {
+        "nik": "",
+        "nama": "",
+        "hubungan": "",
+        "pekerjaan": "",
+        "penghasilan": 0,
+        "no_wa": "",
+        "email": ""
+      }
+    },
+    "dokumen_arsip": {
+      "kk": "",
+      "ktp_ortu": "",
+      "akta": "",
+      "ijazah": "",
+      "kartu_santri": "",
+      "pas_foto": "",
+      "bukti_bayar": ""
+    }
+  }
+]

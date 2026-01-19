@@ -1,0 +1,46 @@
+[
+  {
+    "template": [
+      {
+        "id_surat": "TPL-001",
+        "jenis": "Administrasi",
+        "perihal": "Surat Keterangan Aktif Santri",
+        "judul": "Template Surat Keterangan Aktif",
+        "link": "#",
+        "file": "doc"
+      },
+      {
+        "id_surat": "TPL-002",
+        "jenis": "Perizinan",
+        "perihal": "Surat Izin Pulang",
+        "judul": "Formulir Izin Pulang Santri",
+        "link": "#",
+        "file": "pdf"
+      }
+    ],
+    "arsip": [
+      {
+        "id_surat": "SRT-IN-001",
+        "jenis": "masuk",
+        "perihal": "Undangan Maulid",
+        "judul": "Undangan Maulid Nabi dari Kemenag",
+        "pengirim": "Kemenag Purwakarta",
+        "tertuju": "Pimpinan Pondok",
+        "timestamp": "2024-09-10 09:00",
+        "link": "#",
+        "file": "pdf"
+      },
+      {
+        "id_surat": "SRT-OUT-001",
+        "jenis": "keluar",
+        "perihal": "Pemberitahuan Wali",
+        "judul": "Edaran Libur Semester Ganjil",
+        "pengirim": "Sekretariat",
+        "tertuju": "Wali Santri",
+        "timestamp": "2024-12-15 08:00",
+        "link": "#",
+        "file": "pdf"
+      }
+    ]
+  }
+]
